@@ -2,6 +2,13 @@
 AllowSetConflicts=1
 
 [Hotkeys]
+ChatAll=Shift+Enter,Shift+Option+Enter
+ChatAllies=Control+Enter,Option+NumPadMinus
+ChatCancel=Escape,Control+Escape
+ChatDefault=Slash,Enter
+ChatIndividual=Control+Option+Enter,Shift+Option+NumPadMinus
+ChatRecipient=Tab,Control+Tab
+ChatSend=Enter,Option+Enter
 AICommunication=Option+C,Control+C
 AIArmy=Option+A,Control+A
 AIScout=Option+S,Control+S
