@@ -1,0 +1,4 @@
+ChannelSnipe/Ghost=R,NumPad9
+Liberator/Starport=N,NumPadDecimal
+RavenShredderMissile/Raven=R,NumPad9
+TerranShipWeaponsLevel1/Armory=S,NumPad9

@@ -1,0 +1,7 @@
+DisableBuildingAttack/Baneling=G,NumPad9
+GreaterSpire/Spire=G,NumPad9
+NeuralParasite/Infestor=E,NumPad9
+NeuralParasite/InfestorBurrowed=E,NumPad9
+ParasiticBomb/Viper=R,NumPad9
+ResearchBurrow=B,NumPadDecimal
+Viper/Larva=E,NumPadDecimal

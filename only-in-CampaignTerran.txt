@@ -1,0 +1,8 @@
+CampaignVehicles/Factory=A,NumPadDecimal
+Firebat/Barracks=F,NumPadMultiply
+HireDukesRevenge/Starport=U,NumPad9
+HunterSeekerMissile/Raven=R,NumPad9
+MercMedic/Barracks=B,NumPad9
+Snipe/Ghost=R,NumPad9
+Spectre/Barracks=S,NumPadDecimal
+Wraith/Starport=T,NumPadDecimal

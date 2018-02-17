@@ -1,0 +1,7 @@
+AscendantSacrifice/HighTemplarTaldarim=R,NumPad9
+Carrier/StargateWarp=C,NumPad9
+Observer/RoboticsFacilityWarp=B,NumPad9
+SOAMothershipBlink/SOAMothershipv4=B,NumPad9
+ShadowBlade/ZeratulVoidAiur01=E,NumPad9
+VoidSentryMobileMode/SentryPurifier=T,NumPad9
+VoidShieldCapacitor/FenixChampion=C,NumPad9

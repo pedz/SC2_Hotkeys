@@ -1,0 +1,4 @@
+DeepTunnel/Queen=D,Clear
+InfestorConsumption/Infestor=C,NumPad9
+SwarmQueenHydralisk/SwarmQueenEgg=D,NumPad9
+ViperConsumption/Viper=C,NumPad9

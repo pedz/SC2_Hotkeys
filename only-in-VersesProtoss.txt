@@ -1,0 +1,2 @@
+ChronoBoostEnergyCost/Nexus=C,NumPad9
+NexusMassRecall/Nexus=R,NumPadDecimal

@@ -1,0 +1,12 @@
+ApolloCloakOnNova/NovaHero=C,NumPadDecimal
+HeroNukeCalldown/Nova=N,NumPad9
+HeroNukeCalldown/NovaHero=N,NumPad9
+HeroNukeCalldown/Tosh=N,NumPad9
+HireDukesRevenge/MercCompound=U,NumPad9
+NovaDomination/NovaHero=D,Clear
+NovaGadgetPulseGrenades/NovaHero=W,NumPad0
+Obliterate/Spectre=I,NumPad9
+SJHyperionLightningStorm/SJHyperion=R,NumPadDecimal
+SJHyperionYamato/SJHyperion=E,NumPad9
+SpectreNukeCalldown/Spectre=N,NumPadDecimal
+TheMorosDevice/Raynor=R,NumPad9
