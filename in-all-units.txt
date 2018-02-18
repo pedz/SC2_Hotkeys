@@ -1,0 +1,7 @@
+Attack
+Cancel
+Move
+MoveHoldPosition
+MovePatrol
+Rally
+Stop

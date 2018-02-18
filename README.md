@@ -13,6 +13,11 @@ but I then discovered that the conflict that the game was complaining
 about
 was all within the bindings in Campaign mode.
 
+While creating the negative-* files, I discovered that if you restore
+the defaults for the globals while in Campaign or Verses mode, it
+appears to blow away all of you alternative keys for many of the
+other hotkeys.
+
 ## Files
 
 empty.SC2Hotkeys - I thought the first thing to do was to find all
