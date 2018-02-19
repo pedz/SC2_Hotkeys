@@ -1,0 +1,2107 @@
++++++Verses
+++++Protoss
++++Units
+++Probe
++General
+mshpa
+gc
+bv y
++Basic Structures
+nae
+gf
+ycb E
++Advanced Structures
+csr
+tfb
+d   E
+++Zealot
++General
+mshpa
+
+c   y
+++Adept
++General
+mshpa
+
+f   y
++Shade
+mshpa
+
+    y
+++Sentry
++General
+mshpa
+
+fgc y
++Hallucinations
+ezhsi
+tnvx
+rlcdE
+++Stalker
++General
+mshpa
+
+b   y
++Dark Templar
+mshpa
+
+ b cy
+++High Templar
++General
+mshpa
+
+ft cy
+++Archon
++General
+mshpa
+
+    y
+++Observer
++General
+mshpa
+
+et
+++Wrap Prism
++General
+mshpa
+
+etld
+++Immortal
++General
+mshpa
+
+
+++Colossus
++General
+mshpa
+
+
+++Disruptor
++General
+mshpa
+
+v   y
+++Phoenix
++General
+mshpa
+
+g   E
+++Void Ray
++General
+mshpa
+
+e   E
+++Oracle
++General
+mshpa
+
+rtcdE
+++Tempest
++General
+mshpa
+
+    E
+++Carrier
++General
+mshpa
+
+i   E
+++Mothership
++General
+mshpa
+
+rc
++++Structures
+++Nexus
++General
+em
+    y
+cr  E
+++Assimilator
++General
+
+
+    E
+++Pylon
++General
+   sa
+
+    E
+++Gateway
++General
+zesh
+td  y
+g   E
++Warp Gate
+zesh
+td  y
+ m
+++Forge
++General
+gas
+
+    E
+++Cybernetics Core
++General
+ea
+
+g   E
+++Photon Cannon
++General
+ s  a
+
+    E
+++Shield Battery
++General
+
+
+r   E
+++Twilight Council
++General
+cba
+
+    E
+++Stargate
++General
+xevtc
+    y
+    E
+++Robotics Facility
++General
+baicd
+    y
+    E
+++Templar Archives
++General
+t
+
+    E
+++Fleet Beacon
++General
+rg
+
+    E
+++Robotics Bay
++General
+bge
+
+    E
+++Dark Shrine
++General
+b
+
+    E
+++++Terran
++++Units
+++SCV
++General
+mshpa
+gc
+bvryt
++Basic Structures
+crs
+be
+utn E
++Advanced Structures
+g
+fa
+sc  E
+++MULE
++General
+mshpa
+gc
+  r
+++Marine
++General
+mshpa
+
+t
+++Reaper
++General
+mshpa
+
+d
+++Marauder
++General
+mshpa
+
+t
+++Ghost
++General
+mshpa
+n fg
+recdE
+++Hellion
++General
+mshpa
+
+ed
+++Widow Mine
++General
+mshpa
+
+ ed
+++Siege Tank
++General
+mshpa
+
+ed
+++Cyclone
++General
+mshpa
+
+c   E
+++Thor
++General
+mshpa
+
+ed  E
+++Viking
++General
+mshpa
+
+ed
+++Medivac
++General
+mshpa
+
+ebld
+++Liberator
++General
+mshpa
+
+ed
+++Raven
++General
+mshpa
+
+cdr
+++Banshee
++General
+mshpa
+
+cd
+++Battlecruiser
++General
+mshpa
+
+yt
++++Structures
+++Command Center
++General
+s  bp
+   qy
+od lE
++Flying
+mshp
+
+od l
+++Orbital Command
++General
+s
+    y
+exclE
++Flying
+mshp
+
+   l
+++Planetary Fortress
++General
+s  pa
+    y
+od  E
+++Refinery
++General
+
+   q
+   tE
+++Supply Depot
++General
+
+   q
+r  tE
++Lowered
+
+
+r
+++Barracks
++General
+ardg
+   qy
+xc lE
++Flying
+mshp
+
+xc l
+++Engineering Bay
++General
+ea
+hnbq
+   tE
+++Bunker
++General
+ s  a
+   qy
+tldvE
+++Missile Turret
++General
+ s  a
+   q
+   tE
+++Sensor Tower
++General
+
+   q
+   tE
+++Repair Drone
++General
+mshpa
+
+e
+++Ghost Academy
++General
+m
+   q
+n  tE
+++Factory
++General
+edns
+rt qy
+xc lE
++Flying
+mshp
+
+xc l
+++Armory
++General
+ev
+s  q
+   tE
+++Starport
++General
+vdnre
+b  qy
+xc lE
++Flying
+mshp
+
+xc l
+++Fusion Core
++General
+r
+   q
+   tE
+++Tech Lab
++Attached to Barracks
+ctg
+
+    E
++Attached to Factory
+iacs
+
+    E
++Attached to Starport
+retc
+bn
+    E
++General
+
+
+    E
+++Reactor
++General
+
+
+    E
+++++Zerg
++++Units
+++Larva
++Zerg Cocoon
+    a
+    y
+    E
++General
+dvzr
+htcfa
+eu  E
+++Drone
++General
+mshpa
+gc
+bv yr
++Burrowed
+    a
+
+    r
++Basic Structures
+he
+svrb
+ca  E
++Advanced Structures
+hid
+sn
+u   E
+++Zergling
++General
+mshpa
+
+e   r
++Burrowed
+    a
+
+    r
+++Baneling
++General
+mshpa
+
+xfg r
++Burrowed
+    a
+
+x   r
+++Roach
++General
+mshpa
+
+v   r
++Burrowed
+mshpa
+
+    r
+++Ravager
++General
+mshpa
+
+c   r
++Burrowed
+    a
+
+    r
+++Hydralisk
++General
+mshpa
+
+e   r
++Burrowed
+    a
+
+    r
+++Lurker
++General
+mshpa
+
+    r
++Burrowed
+ s  a
+  fg
+    r
+++Viper
++General
+mshpa
+
+cdbr
+++Mutalisk
++General
+mshpa
+
+
+++Corruptor
++General
+mshpa
+
+cb  E
+++Swarm Host
++Burrowed
+    a
+
+c   r
++General
+mshpa
+
+c   r
+++Locust
++General
+mshpa
+
+
++Flying
+mshpa
+
+z
+++Infestor
++General
+mshpa
+
+tfeEr
++Burrowed
+mshpa
+
+t eEr
+++Ultralisk
++General
+mshpa
+
+    r
++Burrowed
+    a
+
+    r
+++Brood Lord
++General
+mshpa
+
+
+++Broodling
++General
+mshpa
+
+
+++Overlord
++General
+mshpa
+
+vgtdE
++General
+
+
+ c
+++Overseer
++General
+mshpa
+
+wrce
+++Queen
++General
+mshpa
+
+cvt r
++Burrowed
+    a
+
+    r
+++Changling
++General
+mshpa
+
+
+++Infested Terran
++General
+mshpa
+
+    r
++Burrowed
+    a
+
+    r
++++Structures
+++Hatchery
++General
+sq  b
+p  gy
+l   E
+++Lair
++General
+sq  b
+p  gy
+h   E
+++Hive
++General
+sq  b
+p  gy
+    E
+++Extractor
++General
+
+
+    E
+++Spawning Pool
++Gneral
+ma
+
+    E
+++Evolution Chamber
++General
+mac
+
+    E
+++Roach Warren
++General
+gt
+
+    E
+++Baneling Nest
++General
+c
+
+    E
+++Spine Crawler
++General
+ s  a
+
+r   E
++Uprooted
+mshpa
+
+r   E
+++Spore Crawler
++General
+ s  a
+
+r   E
++Uprooted
+mshpa
+
+r   E
+++Hydralisk Den
++General
+h
+
+    E
+++Lurker Den
++General
+d
+
+    E
+++Infestation Pit
++General
+ge
+
+    E
+++Spire
++General
+ac
+
+g   E
+++Greater Spire
++General
+ac
+
+    E
+++Nydus Network
++General
+ s
+n   y
+ld  E
+++Ultralisk Cavern
++General
+c
+
+    E
+++Creep Tumor
++General
+
+
+c   E
+++Nydus Worm
++General
+ s
+    y
+ld
++++++Campaign
+++++Protoss
++++Units
+++Probe
++General
+mshpa
+gc
+bv
++Basic Structures
+nae
+gfb
+ycd E
++Advanced Structures
+tsr
+dfb
+    E
+++Zealot
++General
+mshpa
+
+c   y
+++Adept
++General
+mshpa
+
+f   y
++Shade
+mshpa
+
+    y
+++Sentry
++General
+mshpa
+
+qgf y
++Hallucinations
+ezhsi
+tnvx
+rlcdE
+++Stalker
++General
+mshpa
+
+b   y
+++Dragoon
++General
+mshpa
+
+    y
++Dark Templar
+mshpa
+
+    y
+++High Templar
++General
+mshpa
+
+ft cy
+++Archon
++General
+mshpa
+
+    y
+++Dark Archon
++General
+mshpa
+
+fr  y
+++Observer
++General
+mshpa
+
+
+++Wrap Prism
++General
+mshpa
+
+etld
+++Immortal
++General
+mshpa
+
+b
+++Colossus
++General
+mshpa
+
+    y
+++Reaver
++General
+mshpa
+
+c
+++Disruptor
++General
+mshpa
+
+v   y
+++Phoenix
++General
+mshpa
+
+g   E
+++Void Ray
++General
+mshpa
+
+
+++Arbiter
++General
+mshpa
+
+fr  y
+++Oracle
++General
+mshpa
+
+rtcdE
+++Carrier
++General
+mshpa
+
+i   E
+++Tempest
++General
+mshpa
+
+    y
+++Mothership
++General
+mshpa
+
+rc
+++Mothership Core
++General
+mshpa
+u
+frc E
++++Structures
+++Nexus
++General
+em sa
+    y
+c   E
+++Assimilator
++General
+
+
+    E
+++Pylon
++General
+   sa
+
+    E
+++Gateway
++General
+zes
+td  y
+g   E
++Warp Gate
+zes
+td  y
+ m  E
+++Forge
++General
+gas
+
+    E
+++Cybernetics Core
++General
+ea
+h
+g   E
+++Photon Cannon
++General
+ s  a
+
+    E
+++Twilight Council
++General
+cbx e
+fr
+    E
+++Stargate
++General
+xvc
+    y
+g   E
+++Robotics Facility
++General
+icb
+    y
+g   E
+++Templar Archives
++General
+t
+
+    E
+++Fleet Beacon
++General
+rg
+
+    E
+++Robotics Bay
++General
+bge
+
+    E
+++Dark Shrine
++General
+
+
+    E
+++++Protoss Story
++++Units
+++Karax
++General
+mshpa
+
+q e y
+++Zealot
++General
+mshpa
+
+ce  y
+++Sentinel
++General
+mshpa
+
+c   y
+++Centurion
++General
+mshpa
+
+cz  y
+++Sentry
++General
+mshpa
+
+qg  y
+++Energizer
++General
+mshpa
+
+cet y
+++Stalker
++General
+mshpa
+
+b   y
+++Talandar
++General
+mshpa
+
+qec y
++SOA Calldown
+mshpa
+
+qe  y
+++Avenger
++General
+mshpa
+
+    y
+++Dark Templar
++General
+mshpa
+
+q   y
+++Blood Hunter
++General
+mshpa
+
+v   y
+++High Templar
++General
+mshpa
+
+ft cy
+++Ascendant
++General
+mshpa
+
+tfr y
+++Artanis
++Artanis (Mothership)
+mshpa
+
+rv
++Artanis
+mshpa
+
+q e y
++Extra
+jk
+
+
+++Alarak
++General
+mshpa
+
+q e y
++General
+
+
+q
+++Immortal
++General
+mshpa
+
+b
+++Vanguard
++General
+mshpa
+
+
+++Havoc
++General
+mshpa
+
+tf  y
+++Annihilator
++General
+mshpa
+
+c
+++Mirage
++General
+mshpa
+
+g   E
+++Colossus
++General
+mshpa
+
+    y
+++Wrathwalker
++General
+mshpa
+
+    y
+++Corsair
++General
+mshpa
+
+d   y
+++Destroyer
++General
+mshpa
+
+
+++Void Ray
++General
+mshpa
+
+
+++Carrier
++General
+mshpa
+
+i   E
+++Tempest
++General
+mshpa
+
+d   y
+++Mothership
++General
+mshpa
+
+erb
+++Vorazun
++General
+mshpa
+
+q e y
+++Zeratul
++Zeratul (Wings of Liberty)
+mshpa
+
+sv
++Zeratul
+mshpa
+
+sv  y
++Zeratul (Aiur O1)
+mshpa
+
+bve y
++++Structures
+++Orbital Assimilator
+
+
+    E
+++Warp Robotics Facility
+icb
+
+ m  E
+++Shield Battery
+
+
+r   E
+++Warp Stargate
+xvc
+
+ m  E
+++Khaydarin Monolith
+ s  a
+
+    E
+++++Terran
++++Units
+++SCV
++General
+mshpa
+gc
+bvr t
++Basic Structures
+crs
+be
+utn E
++Advanced Structures
+gm
+fa
+sc  E
+++MULE
++General
+mshpa
+gc
+  r
+++Marine
++General
+mshpa
+
+t
+++HERC
++General
+mshpa
+
+g
+++Reaper
++General
+mshpa
+
+  g
+++Marauder
++General
+mshpa
+
+t
+++Ghost
++General
+mshpa
+n fg
+recdE
+++Hellion
++General
+mshpa
+
+ed
+++Widow Mine
++General
+mshpa
+
+ ed
+++Siege Tank
++General
+mshpa
+
+ed
+++Cyclone
++General
+mshpa
+
+c   E
+++Thor
++General
+mshpa
+
+e   E
++General
+
+
+i   E
+++Viking
++General
+mshpa
+
+ed
+++Medivac
++General
+mshpa
+
+ebld
+++Liberator
++General
+mshpa
+
+ed
+++Raven
++General
+mshpa
+
+tdr
+++Banshee
++General
+mshpa
+
+cd  l
+++Battlecruiser
++General
+mshpa
+
+yt
++++Structures
+++Command Center
++General
+s  bp
+   qy
+od lE
++Flying
+mshp
+
+od l
+++HERC Compound
++General
+h
+   qy
+    E
+++Orbital Command
++General
+s
+    y
+exclE
++Flying
+mshp
+
+   l
+++Planetary Fortress
++General
+s  pa
+    y
+od  E
+++Refinery
++General
+
+   q
+   tE
+++Supply Depot
++General
+
+   q
+r  tE
++Lowered
+
+
+r
+++Barracks
++General
+adrg
+efsqy
+xc lE
++Flying
+mshp
+
+xc l
++General
+adrfe
+phljb
+    E
+++Engineering Bay
++General
+ea
+hnbq
+   tE
+++Bunker
++General
+ s  a
+   qy
+tldvE
+++Missile Turret
++General
+ s  a
+   q
+   tE
+++Sensor Tower
++General
+
+   q
+   tE
+++Ghost Academy
++General
+cm
+   q
+n  tE
+++Factory
++General
+vesdg
+ta qy
+xc lE
++Flying
+mshp
+
+xc l
++General
+ p  m
+    E
++General
+egsdt
+nck
+    E
+++Armory
++General
+ev
+   q
+   tE
+++Starport
++General
+vdreb
+t  qy
+xc lE
++Flying
+mshp
+
+xc l
++General
+ hr
+
+    E
++General
+vetb
+iau
+    E
+++Fusion Core
++General
+rb
+   q
+   tE
+++Tech Lab
++Attached to Barracks
+ctg
+
+    E
++Attached to Factory
+isc
+
+    E
++Attached to Starport
+adrtc
+
+    E
++General
+
+
+    E
+++Reactor
++General
+
+
+    E
+++Auto-Turret
+ s  a
+
+
+++++Terran Story
++++Units
++Medic
++General
+mshpa
+
+e
+++Firebat
++General
+mshpa
+
+
+++Hyperion
++General
+mshpa
+ x
+qter
+++Spectre
++General
+mshpa
+  fg
+uicnE
+++Vulture
++General
+mshpa
+
+er  E
+++Goliath
++General
+mshpa
+
+
+++Predator
++General
+mshpa
+
+
+++Diamondback
++General
+mshpa
+
+
+++Wraith
++General
+mshpa
+
+cd
+++Science Vessel
++General
+mshpa
+
+nr
+++Hercules
++General
+mshpa
+
+ld
+++Jim Raynor
++Castanar
+mshpa
+
+dtgr
++Mar Sara
+mshpa
+
+
++Char
+mshpa
+
+t
++Umojan Lab
+mshpa
+
+
+++Tychus Findlay
++General
+mshpa
+
+t
+++Rory Swann
++General
+mshpa
+
+t
+++Egon Stetmann
++General
+mshpa
+
+e
+++Nova
++General
+mshpa
+
+rdenE
+++Nova
++General
+mshpa
+  fg
+qwcdn
+++A.R.E.S.
++General
+mshpa
+
+
+++Gabriel Tosh
++General
+mshpa
+
+bdcn
+++Flaming Betty
+ s  a
+
+
+++Odin
++General
+mshpa
+
+b   E
++++Structures
+++Tech Reactor
++Atrtached to Barracks
+ctn
+
+    E
++Attached to Factory
+is
+
+    E
++Attached to Starport
+act l
+dr
+    E
++General
+
+
+    E
+++Merc Compond
++General
+plhc
+kaiuy
+   tE
+++Perdition Turret
++General
+    a
+
+   tE
+++Hive Mind Emulator
++General
+
+
+c   E
+++Psi Disruptor
++General
+
+
+    E
+++++Zerg
++++Units
+++Larva
++Zerg Cocoon
+    a
+    y
+    E
++General
+dvzb
+rhfua
+t   E
++Swarm Queen Egg
+    a
+    y
+    E
++General
+
+
+ tedE
+++Drone
++General
+mshpa
+gc
+bv  r
++Burrowed
+    a
+
+    r
++Basic Structures
+he
+svrb
+ca  E
++Advanced Structures
+hi
+sn
+u   E
+++Zergling
++General
+mshpa
+
+e   r
++Burrowed
+    a
+
+    r
+++Baneling
++General
+mshpa
+
+xf  r
++Burrowed
+    a
+
+x   r
+++Roach
++General
+mshpa
+
+    r
++Burrowed
+mshpa
+
+    r
+++Ravager
++General
+mshpa
+
+    r
++Burrowed
+    a
+
+    r
+++Hydralisk
++General
+mshpa
+
+t   r
++Burrowed
+    a
+
+    r
+++Lurker
++General
+mshpa
+
+    r
++Burrowed
+ s  a
+  fg
+    r
+++Viper
++General
+mshpa
+
+dbc
+++Mutalisk
++General
+mshpa
+
+
+++Corruptor
++General
+mshpa
+
+cb  E
+++Swarm Host
++Burrowed
+    a
+   y
+c   r
++General
+mshpa
+
+c   r
+++Locust
++General
+mshpa
+
+
++Flying
+mshpa
+
+z
+++Infestor
++General
+mshpa
+
+ftc r
++Burrowed
+mshpa
+
+t   r
+++Ultralisk
++General
+mshpa
+
+c   r
++Burrowed
+    a
+
+    r
+++Brood Lord
++General
+mshpa
+
+
+++Broodling
++General
+mshpa
+
+
++From Kerrigan Infestation
+mshpa
+
+
+++Overlord
++General
+mshpa
+
+vgldE
++General
+
+
+ c
+++Overseer
++General
+mshpa
+
+ce
+++Queen
++General
+mshpa
+
+ctvdr
++Burrowed
+    a
+
+    r
+++Changling
++General
+mshpa
+
+
+++Infested Terran
++General
+mshpa
+
+    r
++Burrowed
+    a
+
+    r
++++Structures
+++Hatchery
++General
+sq  z
+pe gy
+l   E
+++Hydralisk Den
++General
+g
+
+d   E
+++Lair
++General
+sq  z
+pe gy
+h   E
+++Hive
++General
+sq  z
+pe gy
+    E
+++Extractor
++General
+
+
+    E
+++Spawning Pool
++Gneral
+ma
+
+    E
+++Evolution Chamber
++General
+mac
+
+    E
+++Roach Warren
++General
+gt
+
+    E
+++Baneling Nest
++General
+c
+
+    E
+++Spine Crawler
++General
+ s  a
+
+r   E
++Uprooted
+mshpa
+
+r   E
+++Spore Crawler
++General
+ s  a
+
+r   E
++Uprooted
+mshpa
+
+r   E
+++Infestation Pit
++General
+ge
+
+    E
+++Spire
++General
+ac
+
+g   E
+++Greater Spire
++General
+ac
+
+    E
+++Nydus Network
++General
+ s
+n   y
+ ld E
+++Ultralisk Cavern
++General
+c
+
+    E
+++Creep Tumor
++General
+
+
+c   E
+++Nydus Worm
++General
+ s
+    y
+ld
+++++Zerg Story
++++Units
+++Dehaka
++General
+mshpa
+
+qte r
++Burrowed
+    a
+
+    r
+++Dehaka Spawn
++General
+mshpa
+
+q   r
++Burrowed
+    a
+
+    r
+++Alexei Stukov
++General
+mshpa
+
+qtE
+++Kerrigan
++General
+mshpa
+
+qtedr
++Burrowed
+mshpa
+
+qtedr
++Umoja Missions
+mshpa
+
+qt
+++Kerrigan
++Kerrigan - Empowered
+mshpa
+
+qcteE
++Kerrigan - Void
+mshpa
+
+qtedr
++Kerrigan - Void - Burrowed
+
+
+qtedr
++Kerrigan - Ulnar
+mshpa
+
+q ed
+++Niadra
++Stage 3
+mshpa
+
+qtedr
++Stage 2
+mshpa
+
+qtegr
++Larva
+mshpa
+
+qg
++Stage 1
+mshpa
+
+qtg r
+++Zergling
++Raptor Strain
+mshpa
+
+e   r
++Burrowed
+    a
+
+    r
+++Zergling
++Swarmling Strain
+mshpa
+
+e   r
++Burrowed
+    a
+
+    r
+++Baneling
++Splitter Strain
+mshpa
+
+xf  r
++Burrowed
+    a
+
+x   r
+++Baneling
++Hunter Strain
+mshpa
+
+xf  r
++Burrowed
+
+
+x   r
+++Roachling
++General
+mshpa
+
+
+++Roach
++Corpser Strain
+mshpa
+
+    r
++Burrowed
+mshpa
+
+    r
+++Roach
++Vile Strain
+mshpa
+
+    r
++Burrowed
+mshpa
+
+    r
+++Hydralink
++Impaler Strain
+mshpa
+
+et  r
++Burrowed
+    a
+
+    r
+++Hydralisk
++Lurker Strain
+mshpa
+
+et  r
++Burrowed
+    a
+
+    r
+++Infested Terran
++General
+mshpa
+
+
+++Aberration
++General
+mshpa
+
+    r
+++Mutalisk
++Broodlord Strain
+mshpa
+
+b
+++Mutalisk
++Viper Strain
+mshpa
+
+e
+++Swarm Host
++General
+mshpa
+
+    r
++Burrowed
+ s  a
+
+c   r
++Rooted
+ s  a
+
+c   r
+++Swarm Host
++Carrion Strain
+mshpa
+
+    r
++Burrowed
+ s  a
+
+c   r
++Rooted
+ s  a
+
+c   r
+++Swarm Host
++Creeper Strain
+mshpa
+
+ d  r
++Burrowed
+ s  a
+
+cd  r
++Rooted
+ s  a
+
+cd  r
+++Locust
++General
+mshpa
+
+
++Flying
+mshpa
+
+
+++Impaler
++General
+mshpa
+
+    r
++Burrowed
+ s  a
+
+    r
+++Luker
++General
+mshpa
+
+    r
++Burrowed
+ s  a
+
+    r
+++Ultralisk
++Noxious Strain
+mshpa
+
+tc  r
++Burrowed
+    a
+
+    r
+++Ultralisk
++Torrasque Strain
+mshpa
+
+c   r
++Burrowed
+    a
+
+    r
+++Queen
++General
+mshpa
+
+rebc
+++Zergling
++General
+mshpa
+
+    r
++Burrowed
+    a
+
+    r
+++Roach
++General
+mshpa
+
+    r
++Burrowed
+mshpa
+
+    r
++++Structures
+++Automated Extractor
++General
+
+
+    E
+++Impaler Den
++General
+
+
+    E
+++Luker Den
++General
+
+
+    E
+++Greater Nydus Worm
++General
+ s
+
+ld  y
