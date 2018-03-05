@@ -1090,22 +1090,27 @@ mshpa
 bve y
 +++Structures
 ++Orbital Assimilator
++General
 
 
     E
 ++Warp Robotics Facility
++General
 icb
 
  m  E
 ++Shield Battery
++General
 
 
 r   E
 ++Warp Stargate
++General
 xvc
 
  m  E
 ++Khaydarin Monolith
++General
  s  a
 
     E
