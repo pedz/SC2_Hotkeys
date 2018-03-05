@@ -16,4 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ProtossAirArmorLevel1/CyberneticsCore=A,F2
+ProtossAirWeaponsLevel1/CyberneticsCore=E,F1
+ResearchHallucination/CyberneticsCore=H,F6
+ResearchWarpGate/CyberneticsCore=G,1
 

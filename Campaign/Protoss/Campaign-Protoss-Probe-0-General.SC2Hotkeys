@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+GatherProt=G,F6
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+ProtossBuild/Probe=B,1
+ProtossBuildAdvanced/Probe=V,2
+ReturnCargo=C,F7
 Stop=S,F2
 

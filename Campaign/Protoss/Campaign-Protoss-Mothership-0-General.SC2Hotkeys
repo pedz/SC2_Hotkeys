@@ -17,8 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+MothershipMassRecall/Mothership=R,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+TemporalField/Mothership=C,2
 

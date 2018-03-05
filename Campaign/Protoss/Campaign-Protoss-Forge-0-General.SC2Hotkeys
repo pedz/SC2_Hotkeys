@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ProtossGroundArmorLevel1/Forge=A,F2
+ProtossGroundWeaponsLevel1/Forge=G,F1
+ProtossShieldsLevel1/Forge=S,F3
 

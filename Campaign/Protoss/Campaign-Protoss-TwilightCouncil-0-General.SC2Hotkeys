@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchCharge/TwilightCouncil=C,F1
+ResearchStalkerTeleport/TwilightCouncil=B,F2
+WarpInDarkArchonChampion/TwilightCouncil=R,F7
+WarpInFenixChampion/TwilightCouncil=F,F6
+WarpInReaverChampion/TwilightCouncil=E,F5
+WarpInVulcanChampion/TwilightCouncil=X,F3
 

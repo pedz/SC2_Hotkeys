@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+Cancel=Escape,5
+Mothership/Nexus=M,F2
+Probe/Nexus=E,F1
+Rally=Y,F10
+Stop=S,F4
+TimeWarp/Nexus=C,1
 

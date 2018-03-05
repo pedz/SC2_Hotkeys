@@ -16,4 +16,14 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Assimilator/Probe=A,F2
+Cancel=Escape,5
+CyberneticsCore/Probe=Y,1
+Forge/Probe=F,F7
+Gateway/Probe=G,F6
+KhaydarinMonolith/Probe=D,3
+Nexus/Probe=N,F1
+PhotonCannon/Probe=C,2
+Pylon/Probe=E,F3
+ShieldBattery/Probe=B,F8
 

@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchExtendedThermalLance/RoboticsBay=E,F3
+ResearchGraviticBooster/RoboticsBay=B,F1
+ResearchGraviticDrive/RoboticsBay=G,F2
 

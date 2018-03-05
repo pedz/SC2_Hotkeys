@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BunkerLoad=L,3
+BunkerUnloadAll=D,4
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+PhasingMode/WarpPrism=E,1
 Stop=S,F2
+TransportMode/WarpPrism=T,2
 

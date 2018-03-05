@@ -16,4 +16,18 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+AdeptHallucination/Sentry=H,F3
+ArchonHallucination/Sentry=N,F7
+Cancel=Escape,5
+ColossusHallucination/Sentry=C,3
+DisruptorHallucination/Sentry=D,4
+HighTemplarHallucination/Sentry=T,F6
+ImmortalHallucination/Sentry=I,F5
+OracleHallucination/Sentry=L,2
+PhoenixHallucination/Sentry=X,F9
+ProbeHallucination/Sentry=E,F1
+StalkerHallucination/Sentry=S,F4
+VoidRayHallucination/Sentry=V,F8
+WarpPrismHallucination/Sentry=R,1
+ZealotHallucination/Sentry=Z,F2
 

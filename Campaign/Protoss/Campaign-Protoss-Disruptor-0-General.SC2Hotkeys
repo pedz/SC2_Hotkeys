@@ -20,5 +20,7 @@ Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+PurificationNovaTargeted/Disruptor=V,1
+Rally=Y,5
 Stop=S,F2
 

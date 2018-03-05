@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DarkTemplar=D,F7
+HighTemplar=T,F6
+MorphBackToGateway/WarpGate=M,2
+Rally=Y,F10
+Sentry=E,F2
+Stalker=S,F3
+Zealot=Z,F1
 

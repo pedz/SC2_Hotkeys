@@ -16,4 +16,10 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Colossus/RoboticsFacility=C,F2
+Immortal/RoboticsFacility=I,F1
+Observer/RoboticsFacility=B,F3
+Rally=Y,F10
+UpgradeToRoboticsFacilityWarp/RoboticsFacility=G,1
 

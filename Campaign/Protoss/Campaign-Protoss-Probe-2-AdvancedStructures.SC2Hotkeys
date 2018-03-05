@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DarkShrine/Probe=D,F6
+FleetBeacon/Probe=F,F7
+RoboticsBay/Probe=B,F8
+RoboticsFacility/Probe=R,F3
+Stargate/Probe=S,F2
+TemplarArchive/Probe=T,F1
 
