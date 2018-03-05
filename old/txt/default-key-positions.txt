@@ -1,4 +1,4 @@
-+++++Verses
++++++Varses
 ++++Protoss
 +++Units
 ++Probe
@@ -42,7 +42,8 @@ rlcdE
 mshpa
 
 b   y
-+Dark Templar
+++Dark Templar
++General
 mshpa
 
  b cy
@@ -61,7 +62,7 @@ mshpa
 mshpa
 
 et
-++Wrap Prism
+++Warp Prism
 +General
 mshpa
 
@@ -579,7 +580,7 @@ cvt r
     a
 
     r
-++Changling
+++Changeling
 +General
 mshpa
 
@@ -615,7 +616,7 @@ p  gy
 
     E
 ++Spawning Pool
-+Gneral
++General
 ma
 
     E
@@ -770,7 +771,7 @@ fr  y
 mshpa
 
 
-++Wrap Prism
+++Warp Prism
 +General
 mshpa
 
@@ -1695,7 +1696,7 @@ ctvdr
     a
 
     r
-++Changling
+++Changeling
 +General
 mshpa
 
