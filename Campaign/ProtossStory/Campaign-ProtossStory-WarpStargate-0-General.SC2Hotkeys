@@ -16,12 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
-Attack=A,F5
-MohandarOmnislash/VorazunChampion=E,3
-Move=M,F1
-MoveHoldPosition=H,F3
-MovePatrol=P,F4
-Rally=Y,5
-Stop=S,F2
-VorazunBlink/VorazunChampion=Q,1
+Cancel=Escape,5
+Carrier/StargateWarp=C,F3
+MorphBackToStargate/StargateWarp=M,2
+Phoenix/StargateWarp=X,F1
+VoidRay/StargateWarp=V,F2
 

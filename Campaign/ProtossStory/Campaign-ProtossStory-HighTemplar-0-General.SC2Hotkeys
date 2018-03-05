@@ -16,9 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+AWrp=C,4
 Attack=A,F5
+Feedback/HighArchonTemplar=F,1
+HighArchonPsiStorm/HighArchonTemplar=T,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Rally=Y,5
 Stop=S,F2
 

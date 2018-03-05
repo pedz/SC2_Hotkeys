@@ -20,5 +20,8 @@ Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+PhaseCannon/KaraxChampion=E,3
+Rally=Y,5
+Reclamation/KaraxChampion=Q,1
 Stop=S,F2
 
