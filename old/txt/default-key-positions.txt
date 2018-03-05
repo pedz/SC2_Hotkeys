@@ -1,4 +1,4 @@
-+++++Varses
++++++Verses
 ++++Protoss
 +++Units
 ++Probe
