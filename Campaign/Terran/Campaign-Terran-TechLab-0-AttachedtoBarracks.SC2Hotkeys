@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchPunisherGrenades/BarracksTechLab=G,F3
+ResearchShieldWall/BarracksTechLab=C,F1
+Stimpack/BarracksTechLab=T,F2
 

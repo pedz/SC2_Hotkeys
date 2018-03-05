@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BunkerLoad=L,2
+BunkerUnloadAll=D,3
+Cancel=Escape,5
+Salvage/Bunker=V,4
+SelectBuilder=Q,F9
+SetBunkerRallyPoint/Bunker=Y,F10
+Stim=T,1
+Stop=S,F2
 

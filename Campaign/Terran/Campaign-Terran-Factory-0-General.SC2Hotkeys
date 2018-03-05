@@ -16,4 +16,17 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+CampaignVehicles/Factory=A,F7
+Cancel=Escape,5
+Diamondback/Factory=D,F4
+Goliath/Factory=G,F5
+Hellion/Factory=E,F2
+Lift=L,4
+Rally=Y,F10
+Reactor/Factory=C,2
+SelectBuilder=Q,F9
+SiegeTank/Factory=S,F3
+TechLabFactory/Factory=X,1
+Thor/Factory=T,F6
+Vulture/Factory=V,F1
 

@@ -16,4 +16,7 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+MicroBot/Factory=M,F5
+Predator/Factory=P,F2
 

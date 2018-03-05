@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Diamondback/Factory=D,F4
+Goliath/Factory=G,F2
+Hellion/Factory=E,F1
+HireSiegeBreakers/Factory=K,F8
+HireSpartanCompany/Factory=C,F7
+MercHellion/Factory=N,F6
+SiegeTank/Factory=S,F3
+Thor/Factory=T,F5
 

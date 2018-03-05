@@ -16,4 +16,15 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Firebat/Barracks=F,F4
+HireDevilDogs/Barracks=L,F8
+HireHammerSecurities/Barracks=H,F7
+HireKelmorianMiners/Barracks=P,F6
+Marauder/Barracks=D,F2
+Marine/Barracks=A,F1
+Medic/Barracks=E,F5
+MercMedic/Barracks=B,F10
+MercReaper/Barracks=J,F9
+Reaper/Barracks=R,F3
 

@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+Cancel=Escape,5
+CommandCenterLoad=O,1
+CommandCenterUnloadAll=D,2
+Rally=Y,F10
+SCV=S,F1
+StopPlanetaryFortress/PlanetaryFortress=P,F4
 

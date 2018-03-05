@@ -16,4 +16,7 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BuildHercules/Starport=H,F2
+Cancel=Escape,5
+Raven/Starport=R,F3
 

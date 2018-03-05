@@ -20,5 +20,6 @@ Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Stim=T,1
 Stop=S,F2
 

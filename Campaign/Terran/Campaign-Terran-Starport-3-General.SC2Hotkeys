@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Banshee/Starport=E,F2
+Battlecruiser/Starport=B,F4
+Cancel=Escape,5
+HireDukesRevenge/Starport=U,F8
+HireDuskWing/Starport=I,F6
+HireHelsAngels/Starport=A,F7
+VikingFighter/Starport=V,F1
+Wraith/Starport=T,F3
 

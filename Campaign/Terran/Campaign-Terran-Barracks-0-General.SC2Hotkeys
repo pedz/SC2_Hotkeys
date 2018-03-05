@@ -16,4 +16,17 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Firebat/Barracks=F,F7
+Ghost/Barracks=G,F4
+Lift=L,4
+Marauder/Barracks=D,F2
+Marine/Barracks=A,F1
+Medic/Barracks=E,F6
+Rally=Y,F10
+Reactor/Barracks=C,2
+Reaper/Barracks=R,F3
+SelectBuilder=Q,F9
+Spectre/Barracks=S,F8
+TechLabBarracks/Barracks=X,1
 

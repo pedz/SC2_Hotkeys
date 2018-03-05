@@ -16,4 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+SelectBuilder=Q,F9
+TerranVehicleAndShipPlatingLevel1/Armory=V,F2
+TerranVehicleAndShipWeaponsLevel1/Armory=E,F1
 

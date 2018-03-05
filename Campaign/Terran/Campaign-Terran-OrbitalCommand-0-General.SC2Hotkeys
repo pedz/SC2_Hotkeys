@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+CalldownMULE/OrbitalCommand=E,1
+Cancel=Escape,5
+Lift=L,4
+Rally=Y,F10
+SCV=S,F1
+Scan/OrbitalCommand=C,3
+SupplyDrop/OrbitalCommand=X,2
 

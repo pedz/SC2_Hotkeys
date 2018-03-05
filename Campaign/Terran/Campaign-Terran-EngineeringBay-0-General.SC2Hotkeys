@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+ResearchHiSecAutoTracking/EngineeringBay=H,F6
+ResearchNeosteelFrame/EngineeringBay=N,F7
+SelectBuilder=Q,F9
+TerranInfantryArmorLevel1/EngineeringBay=A,F2
+TerranInfantryWeaponsLevel1/EngineeringBay=E,F1
+UpgradeBuildingArmorLevel1/EngineeringBay=B,F8
 

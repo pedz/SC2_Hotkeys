@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+HERC/HERCCompound=H,F1
+Rally=Y,F10
+SelectBuilder=Q,F9
 

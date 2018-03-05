@@ -20,5 +20,7 @@ Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SiegeMode=E,1
 Stop=S,F2
+Unsiege=D,2
 
