@@ -39,8 +39,8 @@ File.open("/Users/pedz/Library/Application Support/Blizzard/StarCraft II/Account
         from = "start.SC2Hotkeys"
       end
       # if @mode == "Campaign"
-        puts "mkdir -p #{@mode}/#{@area}"
-        puts "cp #{from} #{@mode}/#{@area}/#{@mode}-#{@area}-#{@thing}#{cnt}-#{@num}-#{@card}.SC2Hotkeys"
+        puts "mkdir -p new/#{@mode}/#{@area}"
+        puts "cp #{from} new/#{@mode}/#{@area}/#{@mode}-#{@area}-#{@thing}#{cnt}-#{@num}-#{@card}.SC2Hotkeys"
       # end
       @num += 1
       # puts "1 #{@card}"
