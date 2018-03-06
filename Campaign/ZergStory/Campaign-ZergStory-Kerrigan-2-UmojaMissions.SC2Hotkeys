@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+MindBolt/KerriganGhostLab=Q,1
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+PsionicLift/KerriganGhostLab=T,2
+Stop=S,F2
 

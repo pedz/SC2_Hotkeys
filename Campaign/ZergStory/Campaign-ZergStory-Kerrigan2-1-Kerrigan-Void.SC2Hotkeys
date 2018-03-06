@@ -16,4 +16,14 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BurrowDown=R,5
+K5Leviathan/KerriganVoid=D,4
+MindBolt/KerriganVoid=Q,1
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+PsionicLift/KerriganVoid=T,2
+Stop=S,F2
+WildMutation/KerriganVoid=E,3
 

@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BurrowChargeCampaignNoxious/HotSNoxious=C,2
+BurrowDown=R,5
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+PoisonNova/HotSNoxious=T,1
+Stop=S,F2
 

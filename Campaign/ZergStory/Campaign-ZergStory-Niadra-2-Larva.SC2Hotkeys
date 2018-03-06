@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+GrowSwarmQueen/LarvalQueen=G,2
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+ParasiticInvasion/LarvalQueen=Q,1
+Stop=S,F2
 

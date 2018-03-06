@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+KerriganVoidApocalypse/KerriganVoidUlnar02=D,4
+KerriganVoidKineticBlast/KerriganVoidUlnar02=Q,1
+KerriganVoidSpawnBanelings/KerriganVoidUlnar02=E,3
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+Stop=S,F2
 

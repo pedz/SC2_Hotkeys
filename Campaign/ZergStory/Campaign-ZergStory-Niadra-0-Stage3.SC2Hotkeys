@@ -16,4 +16,14 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BurrowDown=R,5
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+Stop=S,F2
+SwarmQueenHydralisk/HugeSwarmQueen=D,4
+SwarmQueenParasiticInvasion/HugeSwarmQueen=Q,1
+SwarmQueenRoach/HugeSwarmQueen=E,3
+SwarmQueenZergling/HugeSwarmQueen=T,2
 

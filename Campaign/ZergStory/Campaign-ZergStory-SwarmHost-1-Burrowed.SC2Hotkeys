@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+LocustLaunch/SwarmHostBurrowed=C,1
+Stop=S,F2
+SwarmHostUprootUnburrow=R,5
 

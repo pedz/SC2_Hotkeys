@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+CreepTumor/QueenClassic=C,4
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+QueenClassicParasite/QueenClassic=R,1
+QueenMPEnsnare/QueenClassic=E,2
+QueenMPSpawnBroodlings/QueenClassic=B,3
 Stop=S,F2
 
