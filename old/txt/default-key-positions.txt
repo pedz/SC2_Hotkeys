@@ -1371,7 +1371,7 @@ adrtc
 
 ++++Terran Story
 +++Units
-+Medic
+++Medic
 +General
 mshpa
 
@@ -1479,6 +1479,7 @@ mshpa
 
 bdcn
 ++Flaming Betty
++General
  s  a
 
 
