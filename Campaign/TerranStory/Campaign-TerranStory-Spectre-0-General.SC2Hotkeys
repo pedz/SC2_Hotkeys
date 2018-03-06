@@ -17,8 +17,15 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Cancel=Escape,5
+CloakOnBanshee=C,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Obliterate/Spectre=I,2
+SpectreHoldFire/Spectre=F,F8
+SpectreNukeCalldown/Spectre=N,4
+SpectreWeaponsFree/Spectre=G,F9
 Stop=S,F2
+UltrasonicPulse/Spectre=U,1
 

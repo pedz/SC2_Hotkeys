@@ -16,4 +16,15 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+HireDevilDogs/MercCompound=L,F2
+HireDukesRevenge/MercCompound=U,F9
+HireDuskWing/MercCompound=I,F8
+HireHammerSecurities/MercCompound=H,F3
+HireHelsAngels/MercCompound=A,F7
+HireKelmorianMiners/MercCompound=P,F1
+HireSiegeBreakers/MercCompound=K,F6
+HireSpartanCompany/MercCompound=C,F4
+Rally=Y,F10
 

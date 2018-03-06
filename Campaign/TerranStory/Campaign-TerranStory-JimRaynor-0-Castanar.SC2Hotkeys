@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+ExperimentalPlasmaGun/Raynor=G,3
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+PlantC4Charge/Raynor=D,1
+Stop=S,F2
+TheMorosDevice/Raynor=R,4
+TossGrenade/Raynor=T,2
 

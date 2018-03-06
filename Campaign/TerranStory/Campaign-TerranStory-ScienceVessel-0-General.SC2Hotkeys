@@ -17,8 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Irradiate/ScienceVessel=R,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+NanoRepair/ScienceVessel=N,1
 Stop=S,F2
 

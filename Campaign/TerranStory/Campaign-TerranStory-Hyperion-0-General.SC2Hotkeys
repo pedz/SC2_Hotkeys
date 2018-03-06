@@ -20,5 +20,10 @@ Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SJHyperionBlink/SJHyperion=Q,1
+SJHyperionFighters/SJHyperion=T,2
+SJHyperionFightersRecall/SJHyperion=X,F7
+SJHyperionLightningStorm/SJHyperion=R,4
+SJHyperionYamato/SJHyperion=E,3
 Stop=S,F2
 

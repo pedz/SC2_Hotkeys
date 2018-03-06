@@ -16,7 +16,6 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
-Cancel=Escape,5
-ResearchHighCapacityBarrels/FactoryTechReactor=I,F1
-ResearchSiegeTech/FactoryTechReactor=S,F2
+Attack=A,F5
+Stop=S,F2
 

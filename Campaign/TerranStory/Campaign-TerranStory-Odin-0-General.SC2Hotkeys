@@ -17,8 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Cancel=Escape,5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+OdinBarrage/Odin=B,2
 Stop=S,F2
 

@@ -21,4 +21,5 @@ Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+TossGrenadeTychus/TychusCommando=T,1
 

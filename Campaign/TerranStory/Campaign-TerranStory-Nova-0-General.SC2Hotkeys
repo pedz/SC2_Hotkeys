@@ -17,8 +17,13 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Cancel=Escape,5
+Domination/Nova=D,2
+HeroNukeCalldown/Nova=N,4
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+NovaSnipe/Nova=R,1
+ReleaseMinion/Nova=E,3
 Stop=S,F2
 

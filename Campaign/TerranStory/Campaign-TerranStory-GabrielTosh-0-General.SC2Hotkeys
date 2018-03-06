@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Consumption/Tosh=C,3
+HeroNukeCalldown/Tosh=N,4
+MindBlast/Tosh=B,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+VoodooShield/Tosh=D,2
 
