@@ -17,6 +17,9 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BroodLord/Corruptor=B,2
+Cancel=Escape,5
+CorruptionAbility/Corruptor=C,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

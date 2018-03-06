@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BunkerLoad=L,1
+BunkerUnloadAll=D,2
+Rally=Y,F10
+Stop=S,F2
 

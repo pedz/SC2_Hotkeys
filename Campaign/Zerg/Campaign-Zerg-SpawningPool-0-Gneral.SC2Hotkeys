@@ -16,4 +16,7 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+zerglingattackspeed/SpawningPool=A,F2
+zerglingmovementspeed/SpawningPool=M,F1
 

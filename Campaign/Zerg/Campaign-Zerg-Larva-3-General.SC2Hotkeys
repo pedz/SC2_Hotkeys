@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+SwarmQueenHydralisk/SwarmQueenEgg=D,4
+SwarmQueenRoach/SwarmQueenEgg=E,3
+SwarmQueenZergling/SwarmQueenEgg=T,2
 

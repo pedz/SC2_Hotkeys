@@ -16,4 +16,7 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+zergflyerarmor1=C,F2
+zergflyerattack1=A,F1
 

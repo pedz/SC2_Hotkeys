@@ -17,8 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Contaminate/Overseer=E,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SpawnChangeling/Overseer=C,1
 Stop=S,F2
 

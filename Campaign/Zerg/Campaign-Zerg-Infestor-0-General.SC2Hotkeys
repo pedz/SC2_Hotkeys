@@ -17,6 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BurrowDown=R,5
+FungalGrowth/Infestor=F,1
+InfestedTerrans/Infestor=T,2
+InfestorConsumption/Infestor=C,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

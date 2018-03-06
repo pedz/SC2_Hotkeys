@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveVentralSacks=E,F7
+Lair/Hatchery=L,1
+Larva=S,F1
+Queen=Q,F2
+Rally=Y,F10
+RallyEgg=G,F9
+RespawnZergling/Hatchery=Z,F5
+overlordspeed=P,F6
 

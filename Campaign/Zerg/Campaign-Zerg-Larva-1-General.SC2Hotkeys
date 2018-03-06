@@ -16,4 +16,15 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Aberration/Larva=B,F4
+Cancel=Escape,5
+Drone/Larva=D,F1
+Hydralisk/Larva=H,F7
+Infestor/Larva=F,F8
+Mutalisk/Larva=T,1
+Overlord/Larva=V,F2
+Roach/Larva=R,F6
+SwarmHostMP/Larva=A,F10
+Ultralisk/Larva=U,F9
+Zergling/Larva=Z,F3
 

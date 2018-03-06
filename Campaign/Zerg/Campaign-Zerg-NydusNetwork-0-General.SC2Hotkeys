@@ -16,4 +16,10 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BunkerLoad=L,2
+BunkerUnloadAll=D,3
+Cancel=Escape,5
+Rally=Y,F10
+Stop=S,F2
+SummonNydusWorm/NydusNetwork=N,F6
 

@@ -16,4 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+LurkerBurrowUp=R,5
+LurkerCancelHoldFire/LurkerMPBurrowed=G,F9
+LurkerHoldFire/LurkerMPBurrowed=F,F8
+Stop=S,F2
 

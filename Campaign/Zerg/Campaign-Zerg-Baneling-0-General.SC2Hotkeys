@@ -17,6 +17,9 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BurrowDown=R,5
+EnableBuildingAttack/Baneling=F,2
+Explode/Baneling=X,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
