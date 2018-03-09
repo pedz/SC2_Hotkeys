@@ -1,0 +1,14 @@
+[Settings]
+
+[Hotkeys]
+ReplayPlayPause=MediaPlay,P
+ReplayRestart=Control+E,Shift+Option+E
+ReplaySkipBack=MediaPrevTrack,B
+ReplaySkipNext=MediaNextTrack,F
+ReplaySpeedDec=NumPadMinus,Minus
+ReplaySpeedInc=NumPadPlus,Equals
+ReplayStop=MediaStop,Control+Shift+Option+S
+ReplayHide=Control+T,Control+Option+T
+
+[Commands]
+

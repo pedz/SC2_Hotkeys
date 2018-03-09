@@ -1,0 +1,13 @@
+[Settings]
+
+[Hotkeys]
+ChatAll=Shift+Enter,Shift+Option+Enter
+ChatAllies=Control+Enter,Control+Shift+Enter
+ChatCancel=Escape,Option+Escape
+ChatDefault=Slash,Enter
+ChatIndividual=Control+Option+Enter,Control+Shift+Option+Enter
+ChatRecipient=Tab,Option+Tab
+ChatSend=Enter,Option+Enter
+
+[Commands]
+

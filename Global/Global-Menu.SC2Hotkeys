@@ -1,0 +1,13 @@
+[Settings]
+
+[Hotkeys]
+DialogDismiss=Escape,Shift+Escape
+MenuAchievements=F9,Shift+F9
+MenuGame=F10,Shift+F10
+MenuMessages=F11,Shift+F11
+MenuHelp=F12,Shift+F12
+MenuSocial=Option+F11,Shift+Option+F11
+TeamResources=Control+F12,Control+Shift+F12
+
+[Commands]
+

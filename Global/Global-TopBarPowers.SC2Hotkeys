@@ -1,0 +1,10 @@
+[Settings]
+
+[Hotkeys]
+CommanderAbility0=Control+Shift+Option+Left
+CommanderAbility1=Control+Shift+Option+Down
+CommanderAbility2=Control+Shift+Option+Right
+CommanderAbility3=Control+Shift+Option+Up
+
+[Commands]
+
