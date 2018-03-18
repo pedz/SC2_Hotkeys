@@ -6,9 +6,13 @@ class KeyBinding
   # The list of alternatives
   attr_accessor :alt
 
+  # The Attribute this KeyBinding is a value for
+  attr_accessor :parent
+
   # Takes a string such as "a,b,c,d" and creates a biinding with pri
   # equal to "a" and alt equal to [ "b", "c", "d" ]
-  def initialize(str = "")
+  def initialize(parent, str = "")
+    @parent = parent
     @pri, *@alt = (str ||= "").split(',')
   end
 
@@ -20,6 +24,20 @@ class KeyBinding
       alt
     end
   end
+
+  def ==(v)
+    all.sort == v.all.sort
+  end
+
+  def empty?
+    all.empty?
+  end
+
+  # def freeze
+  #   pri.freeze
+  #   alt.freeze
+  #   self
+  # end
 
   # How a binding should be printed out
   def to_s

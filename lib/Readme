@@ -1,0 +1,70 @@
+Some terms:
+
+From this post that someone pointed me to, I am using the term "Mode"
+for the game and the modes as he has them listed is Verses, Campaign,
+Co-Op, and Arcade.
+
+Within a mode, if Menu => Options => Hotkeys is selected, on the left
+are large buttons. I call these "Areas". Verses mode has Protoss,
+Terran, Zerg, and Global areas. Campaign has seven areas. Co-Op has
+thirteen.
+
+After picking an area, the user is presented with two grids: one for
+Units and one for Structures. I don't have a name for this other than
+"Unit" or "Structure". Note that there are duplicate units within an
+Area -- e.g. In Campaign, Terran Story there are two units called
+Nova. Campaign, Zerg Story has three units named Zergling. The name of
+the unit or structure has a number 1-n appended such as Nova1 but if
+it is a 1, it is not displayed. Thus, we end up with Nova and Nova2,
+Zergling, Zergling2, and Zergling3.
+
+Once a Unit  or Structure is picked,  the user sees a  set of "Command
+Cards"  or  simply  "cards"  for  short.  There  can  be  up  to  four
+cards. Aside from the name, I assign them  a number of 0 up to 3 going
+from top  left to bottom right.  The number plus name  makes the cards
+unique.
+
+Within a card, there are up to fifteen commands arranged in three rows
+of five columns. The first row, I add an alternate key of F1-F5. The
+second row I add an alternate key of F6-F10. The third row I add an
+alternate key of 1-5. e.g. the command in the middle of the second row
+always has F8 as its alternate key. If there is no command in that
+position, F8 does not get used for that card.
+
+====
+
+A hot key files is made up of Sections.  These sections are Settings,
+Hotkeys, and Commands.
+
+Settings are more or less self evident with AllowSetConflicts being
+the easiest example.  This particular setting has a check box in the
+GUI.  Other settings do not appear to have any GUI interface.
+
+Hotkeys are what is set in the "Global" area of the GUI (described
+above) and are things such as Control Groups
+
+Commands are for units and structures and are things like Move,
+Attack, etc.
+
+Each Section has a name ("Settings", "Hotkeys", or "Commands") and a
+list of Attributes.
+
+Each Attribute has a name and a value.  For Hotkeys and Commands, the
+value will be a KeyBinding.  For Settings, the value will be a Ruby
+primative.
+
+A KeyBinding can be empty or have a primary key.  If it has a primary
+key, it will also have a list of alternative keys which may be empty.
+
+You will note redundant information preesnt.  Each item will point to
+its parent and it will also fully describe itself.  e.g. The
+HotkeyFile has a hash by Section name of Section objects but the
+Section object will also contain its name.
+
+The assumption is that the redundant information will ultimately spead
+up various processes.
+
+====
+
+The first program will detect conflicts and unbound Hotkeys and
+Commands.
