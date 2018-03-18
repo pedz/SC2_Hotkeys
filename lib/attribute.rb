@@ -20,8 +20,12 @@ class Attribute
     value == v.value
   end
 
+  def map_name
+    @parent.map_name
+  end
+
   def path
-    "#{parent.path}:#{name}"
+    "#{@parent.path}:#{name}"
   end
 
   def to_s

@@ -56,7 +56,11 @@ class Section
     @attributes.each_value
   end
 
+  def map_name
+    @parent.map_name
+  end
+
   def path
-    "#{parent.path}:#{name}"
+    "#{@parent.path}:#{name}"
   end
 end

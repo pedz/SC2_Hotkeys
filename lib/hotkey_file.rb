@@ -44,6 +44,10 @@ class HotkeyFile
   def path
     "#{@name}"
   end
+
+  def map_name
+    @map_name ||= @name.sub(/\.[^.]+\z/, '')
+  end
 end
 
 if $0 == __FILE__

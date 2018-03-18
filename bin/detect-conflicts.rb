@@ -69,19 +69,25 @@ $user_attributes = {}
 $user_map.all_attributes.each do |value|
   $user_attributes[value.name] = value
 end
+$allow_conflicts = false
+$allow_conflicts = true if (s = $user_map.sections["Settings"]) &&
+                           (a = s.attributes["AllowSetConflicts"]) &&
+                           (a.value.pri == '1')
+# puts "Conflicts are allowed" if $allow_conflicts
 
 $verses_maps.each do |name, map|
-  keymap = KeyMap.new
+  keymap = KeyMap.new($allow_conflicts)
+  path = map.path.sub(/\.[^.]+\z/, '')
   map.all_attributes.each do |attr|
     if u = $user_attributes[attr.name]
       u.value.all.each do |key|
-        keymap.add(key, attr)
+        keymap.add(key, u, path: path, default: false)
       end
     else
       # For these maps, we want only the primary key because the
       # alternative key is something we just made up and is not really
       # the default setting.
-      keymap.add(attr.value.pri, attr) if attr.value.pri
+      keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
     end
   end
 
@@ -89,11 +95,11 @@ $verses_maps.each do |name, map|
     $global_maps[name].all_attributes.each do |attr|
       if u = $user_attributes[attr.name]
         u.value.all.each do |key|
-          keymap.add(key, attr)
+          keymap.add(key, u, path: path, default: false)
         end
       else
         attr.value.all.each do |key|
-          keymap.add(key, attr)
+          keymap.add(key, attr, path: path, default: true)
         end
       end
     end
@@ -101,17 +107,18 @@ $verses_maps.each do |name, map|
 end
 
 $campaign_maps.each do |name, map|
-  keymap = KeyMap.new
+  keymap = KeyMap.new($allow_conflicts)
+  path = map.path.sub(/\.[^.]+\z/, '')
   map.all_attributes.each do |attr|
     if u = $user_attributes[attr.name]
       u.value.all.each do |key|
-        keymap.add(key, attr)
+        keymap.add(key, u, path: path, default: false)
       end
     else
       # For these maps, we want only the primary key because the
       # alternative key is something we just made up and is not really
       # the default setting.
-      keymap.add(attr.value.pri, attr) if attr.value.pri
+      keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
     end
   end
 
@@ -119,11 +126,11 @@ $campaign_maps.each do |name, map|
     $global_maps[name].all_attributes.each do |attr|
       if u = $user_attributes[attr.name]
         u.value.all.each do |key|
-          keymap.add(key, attr)
+          keymap.add(key, u, path: path, default: false)
         end
       else
         attr.value.all.each do |key|
-          keymap.add(key, attr)
+          keymap.add(key, attr, path: path, default: true)
         end
       end
     end
