@@ -1,0 +1,8 @@
+[Settings]
+
+[Hotkeys]
+AIDelete=Option+X,Shift+Option+X
+AICancel=Escape,Option+Escape
+
+[Commands]
+

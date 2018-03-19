@@ -6,7 +6,6 @@ Music=Control+M,Control+Option+M
 Sound=Control+S,Control+Option+S
 PTT=Grave,Option+Grave
 DisplayMode=Option+Enter,Shift+Option+Enter
-CinematicSkip=Escape,Option+Escape
 GameSpeedDec=NumPadMinus,Option+NumPadMinus
 GameSpeedInc=NumPadPlus,Option+NumPadPlus
 GameTooltipsOn=Shift,Option+Shift

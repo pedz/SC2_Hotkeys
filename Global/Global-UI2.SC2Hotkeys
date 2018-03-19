@@ -1,0 +1,10 @@
+[Settings]
+
+[Hotkeys]
+CinematicSkip=Escape,Option+Escape
+DisplayMode=Option+Enter,Shift+Option+Enter
+Music=Control+M,Control+Option+M
+Sound=Control+S,Control+Option+S
+
+[Commands]
+

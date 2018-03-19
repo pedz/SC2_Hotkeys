@@ -68,3 +68,147 @@ up various processes.
 
 The first program will detect conflicts and unbound Hotkeys and
 Commands.
+
+====
+
+Notes:
+
+A.I. section of commands has:
+
+These seem to be in a group:
+AICommunication=Option+C,Shift+Option+C
+AIArmy=Option+A,Shift+Option+A
+AIScout=Option+S,Shift+Option+S
+AIDetect=Option+D,Shift+Option+D
+AIExpand=Option+E,Shift+Option+E
+AIBuild=Option+B,Shift+Option+B
+AIClearAll=Option+X,Shift+Option+X
+AIExit=Escape,Option+Escape
+
+AIDelete and AICancel conflict with each other (only)
+
+The others conflict with each other.
+
+None conflict with the Unit Commands.
+
+Addressed by creating AI2 hotkey file with Delete and Cancel and
+removing them from the AI hotkey file.
+
+Camera Section:
+
+All seem to conflict with each other and with Unit Commands
+
+Chat:
+
+ChatAll=Shift+Enter,Shift+Option+Enter
+ChatAllies=Control+Enter,Control+Shift+Enter
+ChatCancel=Escape,Option+Escape
+ChatDefault=Slash,Enter
+ChatIndividual=Control+Option+Enter,Control+Shift+Option+Enter
+ChatRecipient=Tab,Option+Tab
+ChatSend=Enter,Option+Enter
+
+ChatSend and ChatCancel do not conflict with Unit Commands but they do
+conflict with each other.
+
+The others confict with Unit Commands.
+
+Created Independent Chat2 with ChatCancel and ChatSend.
+Removed them from Chat and marked as Conflicts.
+
+Control Groups:
+
+They all conflict with Unit Commands.
+
+Hero:
+
+They conflict with each other but not with anything else.
+
+Inventory:
+
+They conflict with each other but not with anything else.
+
+Menu:
+
+DialogDismiss=Escape,Shift+Escape
+MenuAchievements=F9,Shift+F9
+MenuGame=F10,Shift+F10
+MenuMessages=F11,Shift+F11
+MenuHelp=F12,Shift+F12
+MenuSocial=Option+F11,Shift+Option+F11
+TeamResources=Control+F12,Control+Shift+F12
+
+MenuGame and DialogDismiss do not conflict with anything.
+
+The others conflict with each other and with the Unit Commands.
+
+Oberver and Reply:
+
+Taken as one group, they all conflict with each other but not with the
+Unit Commands.
+
+Unit Management:
+
+AlertRecall=Space,Option+Space
+ArmySelect=F2,Option+F2
+IdleWorker=F1,Option+F1
+MinimapPing=Option+G,Control+Option+G
+MinimapTargetingView=MiddleMouseButton,RightMouseButton
+MinimapNormalView=MiddleMouseButton,LeftMouseButton
+Ping=LeftMouseButton,Control+LeftMouseButton
+QuickPing=Option+LeftMouseButton,Control+Option+LeftMouseButton
+SelectionCancelDrag=Escape,Option+Escape
+Selection=LeftMouseButton,Control+LeftMouseButton
+SmartCommand=RightMouseButton,Control+RightMouseButton
+StatusAll=Apostrophe,Option+Apostrophe
+StatusOwner=BackSlash,Option+BackSlash
+StatusAlly=BracketOpen,Option+BracketOpen
+StatusEnemy=BracketClose,Option+BracketClose
+SubgroupNext=Tab,Option+Tab
+SubgroupPrev=Shift+Tab,Shift+Option+Tab
+TargetCancel=RightMouseButton,Control+RightMouseButton
+TargetChoose=LeftMouseButton,Control+LeftMouseButton
+WarpIn=W,Option+W
+
+MinimapNormalView,
+MinimapTargetingView,
+Ping,
+SelectionCancelDrag,
+TargetChoose,
+WarpIn,
+  seems to not conflict with anything.
+
+TargetCancel and TargetChoose conflict with each other
+
+The others conflict with each other and with the Unit Commands.
+
+UI:
+
+FPS=Control+Option+F,Control+Shift+Option+F
+Music=Control+M,Control+Option+M
+Sound=Control+S,Control+Option+S
+PTT=Grave,Option+Grave
+DisplayMode=Option+Enter,Shift+Option+Enter
+CinematicSkip=Escape,Option+Escape
+GameSpeedDec=NumPadMinus,Option+NumPadMinus
+GameSpeedInc=NumPadPlus,Option+NumPadPlus
+GameTooltipsOn=Shift,Option+Shift
+MinimapColors=Option+F,Shift+Option+F
+MinimapTerrain=Option+T,Control+Option+T
+PauseGame=F15,Shift+F12
+QuickSave=Control+Q,Control+Option+Q
+Screenshot=F13,Control+Shift+Option+F12
+
+This seems to be a complete abortion...
+
+CinematicSkip does not conflict with Unit Commands but does conflict
+with DisplayMode, Music, and Sound.  Those three (DisplayMode, Music,
+and Sound) conflict with each other and with Unit Commands.  The
+others seem to conflict with Unit Commands.  Got it?
+
+Created UI2 with CinematicSkip, DisplayMode, Music, and Sound as an
+Independent group.  Removed CinematicSkip from UI.
+
+UI Editor:
+
+They all conflict with each other but not with the Unit Commands.

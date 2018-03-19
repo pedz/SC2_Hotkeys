@@ -18,8 +18,6 @@ StatusAlly=BracketOpen,Option+BracketOpen
 StatusEnemy=BracketClose,Option+BracketClose
 SubgroupNext=Tab,Option+Tab
 SubgroupPrev=Shift+Tab,Shift+Option+Tab
-TargetCancel=RightMouseButton,Control+RightMouseButton
-TargetChoose=LeftMouseButton,Control+LeftMouseButton
 WarpIn=W,Option+W
 
 [Commands]

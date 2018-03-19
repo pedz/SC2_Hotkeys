@@ -1,0 +1,8 @@
+[Settings]
+
+[Hotkeys]
+TargetCancel=RightMouseButton,Control+RightMouseButton
+TargetChoose=LeftMouseButton,Control+LeftMouseButton
+
+[Commands]
+

@@ -8,9 +8,7 @@ AIDetect=Option+D,Shift+Option+D
 AIExpand=Option+E,Shift+Option+E
 AIBuild=Option+B,Shift+Option+B
 AIClearAll=Option+X,Shift+Option+X
-AIDelete=Option+X,Shift+Option+X
 AIExit=Escape,Option+Escape
-AICancel=Escape,Option+Escape
 
 [Commands]
 
