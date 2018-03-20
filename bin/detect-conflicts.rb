@@ -4,6 +4,26 @@ require 'pathname'
 require_relative '../lib/hotkey_file'
 require_relative '../lib/key_map'
 
+# This isn't really part of KeyMap nor HotkeyFile... it is a very
+# unique routine specific for detecting conflicts.  So, for now, I'm
+# just going to leave it defined in the global space.
+def process_map(map, keymap, path)
+  map.all_attributes.each do |attr|
+    next if $no_conflicts.include?(attr.name)
+    if u = $user_attributes[attr.name]
+      u.value.all.each do |key|
+        keymap.add(key, u, path: path, default: false)
+      end
+    elsif $has_alts.include?(attr.name)
+      attr.value.all.each do |key|
+        keymap.add(key, attr, path: path, default: true)
+      end
+    else
+      keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
+    end
+  end
+end
+
 if ARGV[0] == "--verses-only"
   $verses_only = true
   ARGV.shift
@@ -86,6 +106,7 @@ $independent = [
   "Global-UnitManagement2.SC2Hotkeys",  # Independent
 ]
 
+# These Hotkeys do not seem to conflict with anything -- ever.
 $no_conflicts = [
   "DialogDismiss",
   "MenuGame",
@@ -162,42 +183,11 @@ $command_cards.merge!($campaign_maps) unless $verses_only
 $command_cards.each do |name, map|
   keymap = KeyMap.new($allow_conflicts)
   path = map.path.sub(/\.[^.]+\z/, '')
-  map.all_attributes.each do |attr|
-    next if $no_conflicts.include?(attr.name)
-    if u = $user_attributes[attr.name]
-      u.value.all.each do |key|
-        keymap.add(key, u, path: path, default: false)
-      end
-    else
-      if $has_alts.include?(attr.name)
-        attr.value.all.each do |key|
-          keymap.add(key, attr, path: path, default: true)
-        end
-      else
-        # For these maps, we want only the primary key because the
-        # alternative key is something we just made up and is not really
-        # the default setting.
-        keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
-      end
-    end
-  end
+  process_map(map, keymap, path)
 
   $commands.each do |name|
     map = $global_maps[name]
-    map.all_attributes.each do |attr|
-      next if $no_conflicts.include?(attr.name)
-      if u = $user_attributes[attr.name]
-        u.value.all.each do |key|
-          keymap.add(key, u, path: path, default: false)
-        end
-      elsif $has_alts.include?(attr.name)
-        attr.value.all.each do |key|
-          keymap.add(key, attr, path: path, default: true)
-        end
-      else
-        keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
-      end
-    end
+    process_map(map, keymap, path)
   end
 end
 
@@ -206,20 +196,7 @@ $independent.each do |name|
   keymap = KeyMap.new($allow_conflicts)
   map = $global_maps[name]
   path = map.path.sub(/\.[^.]+\z/, '')
-  map.all_attributes.each do |attr|
-    next if $no_conflicts.include?(attr.name)
-    if u = $user_attributes[attr.name]
-      u.value.all.each do |key|
-        keymap.add(key, u, path: path, default: false)
-      end
-    elsif $has_alts.include?(attr.name)
-      attr.value.all.each do |key|
-        keymap.add(key, attr, path: path, default: true)
-      end
-    else
-      keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
-    end
-  end
+  process_map(map, keymap, path)
 end
 
 # Check the Observer and Replay sections for conflicts.
@@ -227,18 +204,5 @@ keymap = KeyMap.new($allow_conflicts)
 $observer_reply.each do |name|
   map = $global_maps[name]
   path = map.path.sub(/\.[^.]+\z/, '')
-  map.all_attributes.each do |attr|
-    next if $no_conflicts.include?(attr.name)
-    if u = $user_attributes[attr.name]
-      u.value.all.each do |key|
-        keymap.add(key, u, path: path, default: false)
-      end
-    elsif $has_alts.include?(attr.name)
-      attr.value.all.each do |key|
-        keymap.add(key, attr, path: path, default: true)
-      end
-    else
-      keymap.add(attr.value.pri, attr, path: path, default: true) if attr.value.pri
-    end
-  end
+  process_map(map, keymap, path)
 end
