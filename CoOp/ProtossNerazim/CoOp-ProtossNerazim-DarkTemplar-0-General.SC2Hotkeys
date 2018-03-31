@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+DarkTemplarShadowDash/DarkTemplarShakuras=B,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Rally=Y,5
 Stop=S,F2
+VoidDarkTemplarShadowFury/DarkTemplarShakuras=E,1
+VoidStasis/DarkTemplarShakuras=V,3
 

@@ -16,9 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
-Attack=A,F5
+Cancel=Escape,5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+OracleAttack=A,F5
+OracleBuildStasisTrap/Oracle=T,3
+OracleWeaponOff/Oracle=D,2
+OracleWeaponOn/Oracle=C,1
 Stop=S,F2
 
