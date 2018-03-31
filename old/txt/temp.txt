@@ -1,0 +1,722 @@
++++++Co-Op
+++++Protoss
++++Units
+++Probe
++General
++Basic Structures
++Advanced Structures
+++Zealot
++General
+++Zealot
++General
+++Adept
++General
++Shade
+++Sentry
++General
++General
++Hallucinations
+++Stalker
++General
+++Dragoon
++General
+++Dark Templar
++General
+++High Templar
++General
+++Archon
++General
+++Observer
++General
+++Warp Prism
++General
+++Immortal
++General
+++Colossus
++General
+++Reaver
++General
+++Phoenix
++General
+++Void Ray
++General
+++Arbiter
++General
+++Carrier
++General
+++Tempest
++General
+++Mothership
++General
+++Mothership Core
++General
++++Structures
+++Nexus
++General
+++Assimilator
++General
+++Pylon
++General
+++Gateway
++General
+++Warp Gate
++Warp Gate
++General
+++Forge
++General
+++Cybernetics Core
++General
+++Photon Cannon
++General
+++Shield Battery
++General
+++Solar Forge
++General
++General
+++Twilight Council
++General
+++Stargate
++General
+++Warp Stargate
++General
+++Robotics Facility
++General
+++Warp Robotics Facility
++General
+++Templar Archives
++General
+++Fleet Beacon
++General
+++Robotics Bay
++General
+++++Protoss-Nerazim
++++Units
+++Centurion
++General
+++Stalker
++General
+++Dark Templar
++General
+++Dark Archon
++General
+++Annihilator
++General
+++Corsair
++General
+++Void Ray
++General
+++Oracle
++General
+++Shadow Guard
++General
++++Structures
+++Dark Pylon
++General
+++Khaydarin Monolith
++General
+++Dark Shrine
++General
+++++Protoss-Purifier
++++Units
+++Fenix
++General
+++Fenix
++General
+++Fenix
++General
+++Kaldalis
++General
+++Talis
++General
+++Taldarin
++General
+++Warbringer
++General
+++Mojo
++General
+++Clolarion
++General
+++Sentinel
++General
+++Adept
++General
+++Energizer
++General
+++Conservator
++General
+++Scout
++General
+++Colossus
++General
+++Disruptor
++General
+++Mirage
++General
+++Tempest
++General
++++Structures
+++Purifier Data Core
++General
+++Purifier Conclave
++General
++General
+++++Protoss-Tel'darim
++++Units
+++Alarak
++General
+++Supplicant
++General
+++Havoc
++General
+++Blood Hunger
++General
+++Ascendant
++General
+++War Prism
++Tal'darim
+++Vanguard
++General
+++Wrathwalker
++General
+++Destroyer
++General
+++Mothership
++General
++++Structures
+++Alarak's Beacon
++General
+++++Terran
++++Units
+++SCV
++General
++Basic Structures
++Advanced Structures
+++MULE
++General
+++Marine
++General
+++Reaper
++General
+++Marauder
++General
+++Ghost
++General
+++Hellion
++General
+++Widow Mine
++General
++General
+++Siege Tank
++General
++General
+++Cyclone
++General
+++Thor
++General
++General
+++Viking
++General
+++Medivac
++General
+++Liberator
++General
+++Raven
++General
+++Banshee
++General
+++Battlecruiser
++General
++++Structures
+++Command Center
++General
++Flying
+++Orbital Command
++General
++Flying
+++Planetary Fortress
++General
+++Refinery
++General
+++Supply Depot
++General
++Lowered
+++Barracks
++General
++Flying
++General
+++Engineering Bay
++General
+++Bunker
++General
+++Missile Turret
++General
+++Sensor Tower
++General
+++Ghost Academy
++General
+++Factory
++General
++Flying
++General
++General
+++Armory
++General
+++Starport
++General
++Flying
++General
+++Fusion Core
++General
+++Tech Lab
++Attached to Barracks
++Attached to Factory
++Attached to Starport
++General
+++Reactor
++General
+++Auto-Turret
++General
+++++Terran-Covert
++++Units
+++Nova
++General
+++Elite Marine
++General
+++Marauder Commando
++General
+++Spec Ops Ghost
++General
+++Hellion Ranger
++General
+++Heavy Siege Tank
++General
+++Strike Goliath
++General
+++Raid Liberator
++General
+++Raven Type-II
++General
+++Covert Banshee
++General
+++Sabotage Drone
++General
+++Bio-Mechanical Repair Drone
++General
++++Structures
+++Nova's Stasis Shell
++General
+++Defensive Drone
++General
+++Automated Refinery
++General
+++Ghost Academy
++General
+++Railgun Turret
++General
+++++Terran-Infested
++++Units
+++Infested Civilian
++General
++General
+++Volatile Infested
++General
+++Infested Trooper
++General
++General
+++Infested Marine
++General
++General
+++Infested SCV
++General
++General
++General
+++Infested Diamondback
++General
+++Infested Siege Tank
++General
+++Apocalisk
++General
+++Infested Liberator
++General
+++Overlord
++General
+++Infested Banshee
++General
++General
+++Brood Queen
++General
++++Structures
+++Infested Bunker
++Rooted
++Uprooted
+++Infested Barracks
++General
++General
+++Infested Colonist Compound
++General
++General
+++Infested Refinery
++General
+++Infested Armory
++General
+++Infested Tech Lab
++Attached to Barracks
++Attached to Factory
++Attached to Starport
++General
+++Infested Command Center
++General
++General
+++Infested Factory
++General
+++Infested Starport
++General
++General
+++Infested Engineering Bay
++General
+++Infested Missile Turret
++General
++General
+++++Terran-Marauder
++++Units
+++SCV
++General
++General
++General
+++Reaper
++General
+++Hellion
++General
+++Hellbat
++General
+++Widow Mine
++General
+++Assault Galleon
++General
+++Asteria Wraith
++General
+++Deimos Viking
++General
+++Deimos Viking
++General
+++Theia Raven
++General
+++Sovereign Battlecruiser
++General
++++Structures
+++Command Center
++General
++General
+++Dominion Starport
++General
++General
+++Strike Fighter Platform
++General
+++Engineering Bay
++General
+++++Terran-Raider
++++Units
+++Hyperion
++General
+++A.R.E.S.
++General
+++Medic
++General
+++Firebat
++General
+++Spectre
++General
+++Vulture
++General
+++Goliath
++General
+++Predator
++General
+++Diamondback
++General
+++Wraith
++General
+++Science Vessel
++General
+++Hurcules
++General
+++Dusk Wings
++General
++++Structures
+++Drakken Laser Drill
++General
+++Tech Reactor
++Attached to Barracks
++Attached to Factory
++Attached to Starport
++General
+++Perdition Turret
++General
++Burrowed
+++Spinning Dizzy
++General
+++Devastation Turret
++General
+++++Zerg
++++Units
+++Larva
++Zerg Cocoon
++General
+++Drone
++General
++Burrowed
++Basic Structures
++Advanced Structures
+++Zergling
++General
++Burrowed
+++Baneling
++General
++Burrowed
+++Roach
++General
++Burrowed
+++Ravager
++General
+++Hydralisk
++General
++Burrowed
+++Viper
++General
+++Mutalisk
++General
+++Corruptor
++General
+++Swarm Host
++General
++Burrowed
++Rooted
+++Locust
++Ground
++Flying
+++Infestor
++General
++Burrowed
+++Ultralisk
++General
++Burrowed
+++Brood Lord
++General
+++Broodling
++General
++From Kerrigan Infestation
+++Overlord
++General
++General
+++Overseer
++General
+++Queen
++General
++Burrowed
+++Changling
++General
+++Infested Terran
++General
++Burrowed
++++Structures
+++Hatchery
++General
+++Lair
++General
+++Hive
++General
+++Extractor
++General
+++Spawning Pool
++General
+++Evolution Chamber
++General
+++Roach Warren
++General
+++Baneling Nest
++General
+++Spine Crawler
++General
++Uprooted
+++Spore Crawler
++General
++Uprooted
+++Hydralisk Den
++General
+++Lurker Den
++General
+++Infestation Pit
++General
+++Spire
++General
+++Greater Spire
++General
+++Nydus Network
++General
+++Ultralisk Cavern
++General
+++Creep Tumor
++General
+++Nydus Worm
++General
+++++Zerg-Evolved
++++Units
+++Kerrigan
++General
++Burrowed
+++Zagara
++General
++Burrowed
+++Leviathan
++General
+++Brutalisk
++General
+++Hunter Killer
++General
++General
+++Zergling
++Raptor Strain
++Burrowed
+++Zergling
++Swarmling Strain
++Burrowed
+++Baneling
++Splitter Strain
++Burrowed
+++Baneling
++Hunter Strain
++Burrowed
+++Roachling
++General
+++Roach
++Corpser Strain
++Burrowed
+++Roach
++Vile Strain
++Burrowed
+++Hydralisk
++Impaler Strain
++Burrowed
+++Hydralisk
++Lurker Strain
++Burrowed
+++Aberration
++General
++General
+++Mutalisk
++Broodlord Strain
+++Mutalisk
++Viper Strain
+++Swarm Host
++Carrion Strain
++Burrowed
++Rooted
+++Swarm Host
++Creeper Strain
++Burrowed
++Rooted
+++Impaler
++General
++Burrowed
+++Lurker
++General
++Burrowed
+++Ultralisk
++Noxious Strain
++Burrowed
+++Ultralisk
++Torrasque Strain
++Burrowed
+++Guardian
++General
+++Devourer
++General
+++Scourge
++General
++++Structures
+++Automated Extrator
++General
+++Omega Worm
++General
+++Bile Launcher
++General
+++Scourge Nest
++General
+++Toxic Nest
++General
+++++Zerg-Primal
++++Units
+++Glevig
++General
+++Murvar
++General
+++Dakrun
++General
+++Dehaka
++General
++Evolve Mutations
+++Primal Zergling
++General
++Burrowed
+++Ravasaur
++General
++Burrowed
+++Primal Roach
++General
++Burrowed
+++Primal Igniter
++General
++Burrowed
+++Primal Guardian
++General
+++Primal Hydralisk
++General
++Burrowed
+++Primal Multalisk
++General
+++Impaler
++General
++Burrowed
+++Primal Host
++General
++Burrowed
+++Primal Locust
++General
++Flying
+++Creeper Host
++General
++Burrowed
+++Explosive Creeper
++General
+++Primal Ultralisk
++General
++Burrowed
+++Tyranozor
++General
++Burrowed
+++Primal Drone
++General
++Burrowed
++Summon Structures
+++Swarm Queen
++General
++Burrowed
++++Structures
+++Dehaka's Den
++General
+++Greater Primal Wurm
++General
+++Glevig's Den
++General
+++Murvar's Den
++General
+++Dakrun's Den
++General
+++Primal Hive
++General
++Uprooted
+++Primal Warden
++General
++Uprooted
+++Primal Wurm
++General
