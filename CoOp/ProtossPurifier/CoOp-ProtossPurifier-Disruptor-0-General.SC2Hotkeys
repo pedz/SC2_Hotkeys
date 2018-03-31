@@ -17,8 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+FenixPurificationNova/Disruptor=V,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Rally=Y,5
 Stop=S,F2
 

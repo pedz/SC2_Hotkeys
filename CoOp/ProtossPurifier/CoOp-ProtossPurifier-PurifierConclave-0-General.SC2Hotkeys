@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+FenixClolarionCarrierDownloadUpgrade=V,2
+FenixKaldalisZealotDownloadUpgrade=Z,F1
+FenixMojoScoutDownloadUpgrade=X,1
+FenixTaldarinImmortalDownloadUpgrade=I,F6
+FenixTalisAdeptDownloadUpgrade=S,F2
+FenixWarbringerColossusDownloadUpgrade=C,F7
 

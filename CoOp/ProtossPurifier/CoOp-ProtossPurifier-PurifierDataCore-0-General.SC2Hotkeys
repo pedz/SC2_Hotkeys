@@ -16,4 +16,7 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+DownloadBackupPart1/CybrosEscortDownloader=Q,F1
+DownloadBackupPart2/CybrosEscortDownloader=E,F2
+DownloadBackupPart3/CybrosEscortDownloader=R,F3
 

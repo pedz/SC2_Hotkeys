@@ -17,8 +17,13 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+EnergizerReclamation/SentryPurifier=R,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Rally=Y,5
 Stop=S,F2
+VoidSentryChronoBeam/SentryPurifier=C,1
+VoidSentryMobileMode/SentryPurifier=T,4
+VoidSentryPhasingMode/SentryPurifier=E,3
 
