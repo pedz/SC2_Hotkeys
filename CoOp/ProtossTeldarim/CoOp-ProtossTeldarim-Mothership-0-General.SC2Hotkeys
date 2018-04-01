@@ -16,9 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+AlarakMothershipMassTeleport/SOAMothershipv4=T,2
 Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SOAMothershipLineAttack/SOAMothershipv4=E,1
 Stop=S,F2
 

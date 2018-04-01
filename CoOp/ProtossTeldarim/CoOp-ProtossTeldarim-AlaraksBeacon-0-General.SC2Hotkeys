@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+AlarakDeadlyCharge/AlarakReviveBeacon=Q,1
+AlarakEmpower/AlarakReviveBeacon=R,4
+AlarakKnockback/AlarakReviveBeacon=E,3
+Attack=A,F5
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+Rally=Y,5
+Stop=S,F2
 
