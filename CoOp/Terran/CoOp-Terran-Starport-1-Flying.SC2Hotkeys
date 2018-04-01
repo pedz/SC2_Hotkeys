@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BuildTechLabStarport/StarportFlying=X,1
+Land=L,4
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+Reactor/StarportFlying=C,2
+Stop=S,F2
 

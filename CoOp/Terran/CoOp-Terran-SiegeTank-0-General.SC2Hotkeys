@@ -17,8 +17,11 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+IgniteAfterburners/SiegeTank=B,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SiegeMode=E,1
 Stop=S,F2
+Unsiege=D,2
 

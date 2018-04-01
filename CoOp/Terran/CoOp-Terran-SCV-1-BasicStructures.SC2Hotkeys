@@ -16,4 +16,14 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Barracks/SCV=B,F6
+BuildKelMorianRocketTurret/SCV=G,3
+Bunker/SCV=U,1
+Cancel=Escape,5
+CommandCenter/SCV=C,F1
+EngineeringBay/SCV=E,F7
+HiveMindEmulator/SCV=I,4
+MissileTurret/SCV=T,2
+Refinery/SCV=R,F2
+SupplyDepot/SCV=S,F3
 

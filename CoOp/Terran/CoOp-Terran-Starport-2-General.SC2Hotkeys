@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Banshee/Starport=E,F3
+Battlecruiser/Starport=B,2
+BuildHercules/Starport=H,1
+BuildScienceVessel/Starport=S,F8
+Liberator/Starport=N,F4
+Medivac/Starport=D,F6
+Raven/Starport=R,F7
+VikingFighter/Starport=V,F2
+Wraith/Starport=T,F1
 

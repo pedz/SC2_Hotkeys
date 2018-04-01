@@ -16,9 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+250mmStrikeCannons/Thor=C,1
 Attack=A,F5
+Cancel=Escape,5
+ExplosiveMode=D,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SelfRepair/Thor=R,3
 Stop=S,F2
 

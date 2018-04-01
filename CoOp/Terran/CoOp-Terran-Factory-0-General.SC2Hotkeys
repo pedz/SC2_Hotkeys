@@ -16,4 +16,16 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BuildCyclone/Factory=N,F4
+Cancel=Escape,5
+Goliath/Factory=G,F2
+Hellion/Factory=E,F6
+HellionTank/Factory=R,F1
+Lift=L,4
+Rally=Y,F10
+Reactor/Factory=C,2
+SelectBuilder=Q,F9
+SiegeTank/Factory=S,F3
+TechLabFactory/Factory=X,1
+Thor/Factory=T,F5
 

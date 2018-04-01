@@ -17,8 +17,11 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Hyperjump/Battlecruiser=T,2
+IgniteAfterburners/Battlecruiser=B,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+YamatoGun=Y,1
 

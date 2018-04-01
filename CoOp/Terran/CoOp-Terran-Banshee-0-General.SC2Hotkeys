@@ -17,6 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BurrowUp=R,5
+CloakOff=D,2
+CloakOnBanshee=C,1
+IgniteAfterburners/Banshee=B,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

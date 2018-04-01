@@ -17,8 +17,11 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+AutoTurret/Raven=T,1
+InstantHunterSeekerMissile/Raven=R,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+PointDefenseDrone/Raven=D,2
 Stop=S,F2
 

@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+CommandCenterLoad=O,1
+CommandCenterUnloadAll=D,2
+Lift=L,4
+OrbitalCommand/CommandCenter=B,F5
+Rally=Y,F10
+SCV=S,F1
+SelectBuilder=Q,F9
+VespeneDrone/CommandCenter=R,F2
 

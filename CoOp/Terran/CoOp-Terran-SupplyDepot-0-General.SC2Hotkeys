@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+Lower/SupplyDepot=R,1
+SelectBuilder=Q,F9
 

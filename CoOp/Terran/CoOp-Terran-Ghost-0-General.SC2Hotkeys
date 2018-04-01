@@ -17,8 +17,16 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Cancel=Escape,5
+CloakOff=D,F7
+CloakOnBanshee=C,F6
+EMP/Ghost=E,2
+GhostHoldFire/Ghost=F,F8
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+NukeCalldown/Ghost=N,4
+Snipe/Ghost=Q,1
 Stop=S,F2
+WeaponsFree/Ghost=G,F9
 

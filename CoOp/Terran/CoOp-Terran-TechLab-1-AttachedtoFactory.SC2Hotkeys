@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Research330mmBarrageCannon/FactoryTechLab=C,F9
+ResearchCycloneLockOnDamageUpgrade/FactoryTechLab=O,F8
+ResearchHellbatHellArmor/FactoryTechLab=H,F2
+ResearchHighCapacityBarrels/FactoryTechLab=I,F1
+ResearchImprovedSiegeMode/FactoryTechLab=E,F3
+ResearchLockOnRangeUpgrade/FactoryTechLab=R,F7
+ResearchMaelstromRounds/FactoryTechLab=M,F6
+ResearchMultiLockWeaponsSystem/FactoryTechLab=L,F4
 
