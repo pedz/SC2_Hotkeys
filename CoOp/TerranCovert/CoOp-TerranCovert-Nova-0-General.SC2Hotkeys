@@ -17,8 +17,14 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+GhostHoldFire/NovaCoop=F,F9
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+NovaGadgetBoombots/NovaCoop=E,3
+NovaSwitchAssaultMode/NovaCoop=D,5
+NovaUnitNuke/NovaCoop=R,4
+NovaWeaponImprovedCanisterRifleSnipe/NovaCoop=Q,1
 Stop=S,F2
+WeaponsFree/NovaCoop=G,F10
 

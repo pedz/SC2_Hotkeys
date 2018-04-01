@@ -17,6 +17,8 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Liberator_BlackOpsMorphtoAA/Liberator_BlackOps=D,2
+Liberator_BlackOpsMorphtoAG/Liberator_BlackOps=E,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

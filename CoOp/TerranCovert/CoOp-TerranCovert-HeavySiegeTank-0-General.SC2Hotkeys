@@ -17,8 +17,11 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+DeploySpiderMines/SiegeTank_BlackOps=R,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SiegeTank_BlackOpsSiege=E,1
+SiegeTank_BlackOpsUnsiege=D,2
 Stop=S,F2
 

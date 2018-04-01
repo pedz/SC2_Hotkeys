@@ -17,8 +17,13 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Cancel=Escape,5
+EMP/Ghost_BlackOps=E,2
+GhostHoldFire/Ghost_BlackOps=F,F8
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Snipe_BlackOps/Ghost_BlackOps=R,1
 Stop=S,F2
+WeaponsFree/Ghost_BlackOps=G,F9
 

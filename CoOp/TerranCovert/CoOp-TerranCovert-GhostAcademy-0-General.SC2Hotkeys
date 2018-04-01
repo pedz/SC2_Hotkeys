@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+ResearchNovaDetector/GhostAcademyNova=G,F1
+ResearchNovaLifeRegen/GhostAcademyNova=C,F2
+ResearchNovaShotgunBlastRange/GhostAcademyNova=H,F4
+ResearchNovaSnipeRefund/GhostAcademyNova=E,F3
+SelectBuilder=Q,F9
 
