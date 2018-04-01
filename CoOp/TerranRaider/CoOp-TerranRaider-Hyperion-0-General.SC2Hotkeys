@@ -17,6 +17,9 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+HyperionAdvancedPDD/HyperionVoidCoop=R,3
+HyperionVoidCoopHyperjump/HyperionVoidCoop=Q,1
+HyperionVoidCoopYamatoCannon/HyperionVoidCoop=Y,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

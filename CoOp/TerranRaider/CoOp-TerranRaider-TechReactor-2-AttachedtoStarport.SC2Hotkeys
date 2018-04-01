@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchBansheeCloak/StarportTechReactor=C,F1
+ResearchMedivacCloakedHealBeam/StarportTechReactor=H,F6
+ResearchPhobosClassWeaponsSystem/StarportTechReactor=B,F3
+ResearchRipwaveMissiles/StarportTechReactor=R,F4
+ResearchShockwaveMissileBattery/StarportTechReactor=S,F2
+ResearchSuperScience/StarportTechReactor=U,F7
 

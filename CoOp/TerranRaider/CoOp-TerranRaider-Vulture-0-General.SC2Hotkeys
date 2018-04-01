@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+Cancel=Escape,5
+IgniteAfterburners/Vulture=B,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+SpiderMine/Vulture=E,1
+SpiderMineReplenish/Vulture=R,2
 Stop=S,F2
 

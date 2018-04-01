@@ -16,4 +16,10 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+Cancel=Escape,5
+Halt=T,4
+Salvage/KelMorianMissileTurret=V,1
+SelectBuilder=Q,F9
+Stop=S,F2
 

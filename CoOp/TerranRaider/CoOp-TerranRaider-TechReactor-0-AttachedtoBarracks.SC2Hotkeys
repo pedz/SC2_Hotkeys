@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchIncineratorGauntlets/BarracksTechReactor=I,F6
+ResearchJuggernautPlating/BarracksTechReactor=J,F7
+ResearchMarauderMagrailMunitions/BarracksTechReactor=S,F4
+ResearchPunisherGrenades/BarracksTechReactor=G,F3
+ResearchShieldWall/BarracksTechReactor=C,F1
+Stimpack/BarracksTechReactor=T,F2
 
