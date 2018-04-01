@@ -572,6 +572,7 @@
 +General
 ++Brutalisk
 +General
++Burrowed
 ++Hunter Killer
 +General
 +General
