@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BunkerLoad=L,1
+BunkerUnloadAll=D,2
+Cancel=Escape,5
+SIInfestedBunkerSpawnInfestedMarine/SIInfestedBunker=E,F1
+SIInfestedBunkerUproot/SIInfestedBunker=R,3
+SIStukovPlaceHordeRally/SIInfestedBunker=Y,F10
+Stop=S,F2
 

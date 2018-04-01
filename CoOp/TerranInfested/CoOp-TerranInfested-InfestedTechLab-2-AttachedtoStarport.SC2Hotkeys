@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchSILiberatorBecometheSwarm/SIStarportTechLab=C,F2
+ResearchSILiberatorImprovedAoeAttack/SIStarportTechLab=V,F1
+ResearchSIQueenEnergy/SIStarportTechLab=E,F7
+ResearchSIQueenFungalGrowth/SIStarportTechLab=F,F6
+ResearchStukovInfestedBansheeBurrowRegeneration/SIStarportTechLab=R,F3
+ResearchStukovInfestedBansheeInfestedLife/SIStarportTechLab=B,F4
 

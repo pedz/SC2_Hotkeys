@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveStukovInfestedCivilianSpawnBroodlingsOnDeath/SICivilianStructure=B,F7
+EvolveStukovInfestedInfestedCivilianLeap/SICivilianStructure=A,F6
+Rally=Y,F10
+ResearchSIBarracksTrainInfestedCivilianLevel2/SICivilianStructure=E,F1
+SIInfestedCivilian/SICivilianStructure=D,1
+SIUproot/SICivilianStructure=R,4
 

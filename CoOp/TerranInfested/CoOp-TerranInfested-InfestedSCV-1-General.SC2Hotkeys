@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+SIBarracks/SISCV=B,F6
+SICivilianStructure/SISCV=V,F3
+SICommandCenter/SISCV=C,F1
+SIEngineeringBay/SISCV=E,F7
+SIInfestedBunker/SISCV=U,1
+SIMissileTurret/SISCV=T,2
+SIRefinery/SISCV=R,F2
 

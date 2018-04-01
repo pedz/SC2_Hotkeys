@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+ResearchInfestedBunkerArmor/SIEngineeringBay=C,2
+ResearchInfestedBunkerLifeRegen/SIEngineeringBay=R,1
+SelectBuilder=Q,F9
+TerranInfantryArmorLevel1/SIEngineeringBay=A,F2
+TerranInfantryWeaponsLevel1/SIEngineeringBay=E,F1
 

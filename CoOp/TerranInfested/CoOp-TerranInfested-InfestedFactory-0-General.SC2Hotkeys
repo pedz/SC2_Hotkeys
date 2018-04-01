@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Rally=Y,F10
+SIDiamondBack/SIFactory=D,F1
+SISiegeTank/SIFactory=S,F2
+SITechLabFactory/SIFactory=X,1
+SIUproot/SIFactory=R,4
+SelectBuilder=Q,F9
 

@@ -16,4 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveSIDiamondbackImprovedEnsnare/SIFactoryTechLab=S,F1
+EvolveSIDiamondbackSnailTrail/SIFactoryTechLab=C,F2
+ResearchAutoCreateInfestedCivilianAmmo/SIFactoryTechLab=A,F3
+ResearchInfestedSiegeTankArmoredDamage/SIFactoryTechLab=E,F4
 

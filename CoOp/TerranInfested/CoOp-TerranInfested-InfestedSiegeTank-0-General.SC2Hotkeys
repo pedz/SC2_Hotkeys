@@ -21,4 +21,7 @@ Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+StukovInfestedSiegeTankDeepTunnel/StukovInfestedSiegeTank=R,3
+StukovInfestedSiegeTankRoot/StukovInfestedSiegeTank=E,1
+StukovInfestedSiegeTankUproot/StukovInfestedSiegeTank=D,2
 

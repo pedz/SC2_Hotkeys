@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+CommandCenterLoad=O,1
+CommandCenterUnloadAll=D,2
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+SIRoot/SICommandCenterFlying=R,4
+Stop=S,F2
 

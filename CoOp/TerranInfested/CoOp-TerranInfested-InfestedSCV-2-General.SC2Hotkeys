@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+SIArmory/SISCV=A,F6
+SIFactory/SISCV=F,F1
+SIStarport/SISCV=S,F2
 

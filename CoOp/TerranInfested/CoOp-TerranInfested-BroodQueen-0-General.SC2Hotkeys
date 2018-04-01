@@ -20,5 +20,8 @@ Attack=A,F5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+QueenClassicParasite/SIQueen=E,1
+QueenMPSpawnBroodlings/SIQueen=B,2
+SIQueenFungalGrowth/SIQueen=F,3
 Stop=S,F2
 
