@@ -17,6 +17,9 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+HHBattlecruiserShots/HHBattlecruiser=D,3
+HHYamatoShots/HHBattlecruiser=E,2
+Hyperjump/HHBattlecruiser=T,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

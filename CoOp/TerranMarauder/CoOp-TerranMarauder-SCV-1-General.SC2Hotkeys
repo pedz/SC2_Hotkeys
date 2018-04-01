@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BuildHHMercStarport/HHSCV=B,F6
+Cancel=Escape,5
+CommandCenter/HHSCV=C,F1
+HHMercCompound/HHSCV=E,F7
+MissileTurret/HHSCV=T,2
+Refinery/HHSCV=R,F2
+SupplyDepot/HHSCV=S,F3
 

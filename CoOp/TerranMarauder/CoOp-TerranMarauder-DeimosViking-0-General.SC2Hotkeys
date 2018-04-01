@@ -16,7 +16,10 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+AssaultMode=D,4
 Attack=A,F5
+FleetwideJump/HHVikingFighter=T,1
+HHVikingRockets/HHVikingFighter=W,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

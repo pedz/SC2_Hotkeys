@@ -17,6 +17,10 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+FleetwideJump/HHRaven=T,1
+HHNomadTargetLock/HHRaven=R,2
+MorphtoHHRaven/HHRaven=D,4
+MorphtoHHRavenSiege/HHRaven=E,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

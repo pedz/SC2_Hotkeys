@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+HHBomberAreaBomb/HHBomberPlatform=Q,F1
+Halt=T,4
+TrainHHBomber/HHBomberPlatform=B,1
 

@@ -16,4 +16,14 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+Halt=T,4
+ResearchHHHellionDeathFear/HHMercCompound=H,3
+ResearchHHHellionDeathStim/HHMercCompound=A,1
+ResearchHHHellionRocket/HHMercCompound=E,2
+ResearchHHReaperClusterBombs/HHMercCompound=B,F1
+ResearchHHReaperFlight/HHMercCompound=F,F2
+ResearchHHWidowMineDeathBlossom/HHMercCompound=D,F6
+ResearchHHWidowMineRangeAttack/HHMercCompound=R,F7
+SelectBuilder=Q,F9
 

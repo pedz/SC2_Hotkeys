@@ -17,8 +17,11 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+FleetwideJump/HHWraith=T,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+WraithCloakOff/HHWraith=D,3
+WraithCloakOn/HHWraith=C,2
 

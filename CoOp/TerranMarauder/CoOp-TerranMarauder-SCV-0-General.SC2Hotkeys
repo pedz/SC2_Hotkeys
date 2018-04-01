@@ -17,8 +17,15 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+GatherProt=G,F6
+Halt=T,5
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+Repair=R,3
+ReturnCargo=C,F7
+Spray=Y,4
 Stop=S,F2
+TerranBuild/HHSCV=B,1
+TerranBuildAdvanced/HHSCV=V,2
 
