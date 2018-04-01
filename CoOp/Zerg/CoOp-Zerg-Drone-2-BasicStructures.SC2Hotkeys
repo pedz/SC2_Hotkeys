@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BanelingNest/Drone=B,F8
+Cancel=Escape,5
+EvolutionChamber/Drone=V,F7
+Extractor/Drone=E,F2
+Hatchery/Drone=H,F1
+SpawningPool/Drone=S,F6
+SpineCrawler/Drone=C,1
+SporeCrawler/Drone=A,2
+ZagaraBileLauncher/Drone=N,3
 

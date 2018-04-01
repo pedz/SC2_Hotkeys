@@ -16,4 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveInfestorEnergyUpgrade/InfestationPit=G,F3
+EvolveViperImprovedCastRange/InfestationPit=R,F2
+HotSPressurizedGlands/InfestationPit=P,F1
+ResearchNeuralParasite/InfestationPit=E,F4
 

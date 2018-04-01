@@ -16,4 +16,10 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+AbathurDeepTunnel/SwarmHostBurrowed=D,2
+Attack=A,F5
+EvolveToBrutalisk/SwarmHostBurrowed=B,3
+LocustLaunch/SwarmHostBurrowed=C,1
+Stop=S,F2
+SwarmHostUprootUnburrow=R,5
 

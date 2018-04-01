@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveBanelingCorrosiveBile/BanelingNest=A,F2
+EvolveBanelingHeal/BanelingNest=E,F4
+EvolveBanelingRupture/BanelingNest=R,F3
+EvolveCentrificalHooks/BanelingNest=C,F1
+Rally=Y,F10
+ZagaraVoidCoopBanelingSpawner/BanelingNest=B,1
 

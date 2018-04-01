@@ -17,8 +17,13 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+DisablingCloud/Viper=B,2
+EvolveToLeviathan/Viper=L,5
+FaceEmbrace/Viper=D,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+ParasiticBomb/Viper=R,4
 Stop=S,F2
+ViperConsumption/Viper=C,3
 

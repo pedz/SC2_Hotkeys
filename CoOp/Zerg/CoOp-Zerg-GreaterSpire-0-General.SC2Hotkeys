@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveDevourerAoEDamage/GreaterSpire=D,F7
+EvolveGuardianAttackRangeIncrease/GreaterSpire=E,F6
+EvolveMutaliskRapidRegeneration/GreaterSpire=R,F3
+EvolveSunderingGlave/GreaterSpire=S,F5
+EvolveViciousGlaive/GreaterSpire=V,F4
+zergflyerarmor1=C,F2
+zergflyerattack1=A,F1
 

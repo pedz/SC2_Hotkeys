@@ -17,8 +17,14 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BurrowDown=R,5
+GatherProt=G,F6
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+ReturnCargo=C,F7
+Spray=Y,4
 Stop=S,F2
+ZergBuild/Drone=B,1
+ZergBuildAdvanced/Drone=V,2
 

@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+HydraliskDen/Drone=H,F1
+InfestationPit/Drone=I,F2
+NydusNetwork/Drone=N,F7
+ScourgeNest/Drone=C,2
+Spire/Drone=S,F6
+UltraliskCavern/Drone=U,1
 

@@ -16,4 +16,9 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveAncillaryCarapace/LurkerDen=C,F2
+EvolveFrenzy/LurkerDen=F,F3
+EvolveMuscularAugments/LurkerDen=A,F1
+ResearchLurkerRange/LurkerDen=E,F4
 

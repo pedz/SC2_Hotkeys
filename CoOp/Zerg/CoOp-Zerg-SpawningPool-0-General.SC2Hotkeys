@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveBileLauncherBombardmentCooldown/SpawningPool=D,2
+EvolveBileLauncherIncreasedRange/SpawningPool=B,1
+EvolveHardenedCarapace/SpawningPool=C,F2
+EvolveZerglingArmorShred/SpawningPool=R,F4
+zerglingattackspeed/SpawningPool=A,F3
+zerglingmovementspeed/SpawningPool=M,F1
 

@@ -17,6 +17,9 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+EvolveToLeviathan/Mutalisk=L,3
+MorphToGuardian/Mutalisk=G,1
+MorphtoDevourer/Mutalisk=D,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

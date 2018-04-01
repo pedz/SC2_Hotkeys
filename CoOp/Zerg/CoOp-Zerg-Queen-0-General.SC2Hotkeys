@@ -17,8 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BuildCreepTumor/QueenCoop=C,1
+BurrowDown=R,5
+MorphMorphalisk/QueenCoop=V,2
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+Transfusion/QueenCoop=T,3
 

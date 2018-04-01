@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+EvolveAdaptivePlating/RoachWarren=D,F4
+EvolveCorrosiveBileDamageIncrease/RoachWarren=E,F7
+EvolveCorrosiveBileRadiusIncrease/RoachWarren=C,F6
+EvolveGlialRegeneration/RoachWarren=G,F1
+EvolveHydriodicBile/RoachWarren=B,F3
+EvolveTunnelingClaws/RoachWarren=T,F2
 
