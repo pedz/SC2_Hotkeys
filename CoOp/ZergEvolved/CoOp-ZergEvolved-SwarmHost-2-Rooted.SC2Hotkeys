@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+LocustFlyingLaunch/SwarmHostSplitARooted=C,1
+Stop=S,F2
+SwarmHostUproot=R,5
 

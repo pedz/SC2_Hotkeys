@@ -16,4 +16,14 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BurrowUp=R,5
+MassRoachDrop/ZagaraVoidCoopBurrowed=D,4
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+Stop=S,F2
+ZagaraVoidCoopBanelingBarrage/ZagaraVoidCoopBurrowed=Q,1
+ZagaraVoidCoopMassFrenzy/ZagaraVoidCoopBurrowed=E,3
+ZagaraVoidCoopSpawnHunterKillers/ZagaraVoidCoopBurrowed=W,2
 

@@ -17,8 +17,13 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BurrowDown=R,5
+KerriganVoidCoopCrushingGripWave/K5Kerrigan=D,4
+KerriganVoidCoopEconDrop/K5Kerrigan=E,3
+MindBolt/K5Kerrigan=Q,1
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+PsionicLift/K5Kerrigan=W,2
 Stop=S,F2
 

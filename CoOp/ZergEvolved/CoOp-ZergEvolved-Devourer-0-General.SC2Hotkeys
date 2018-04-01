@@ -17,6 +17,8 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+CorrosiveAcidDevourer/Devourer=D,1
+EvolveToLeviathan/Devourer=L,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+BurrowDown=R,5
+EnableBuildingAttack/HotSSplitterlingBig=F,2
+Explode/HotSSplitterlingBig=X,1
+Move=M,F1
+MoveHoldPosition=H,F3
+MovePatrol=P,F4
+Stop=S,F2
 
