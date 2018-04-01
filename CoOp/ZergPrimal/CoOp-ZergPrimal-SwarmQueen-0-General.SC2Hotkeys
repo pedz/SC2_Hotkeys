@@ -17,8 +17,13 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BuildCreepTumor/Queen=C,1
+BurrowDown=R,5
+DeepTunnel/Queen=D,4
+EvolveToBrutalisk/Queen=B,3
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
+QueenBurstHeal/Queen=T,2
 Stop=S,F2
 

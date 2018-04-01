@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DehakaMurvarCreeperAir/DehakaMurvarStructure=A,F6
+ResearchDehakaGuardianExplosiveBomb/DehakaMurvarStructure=R,F4
+ResearchDehakaGuardianFury/DehakaMurvarStructure=T,F5
+ResearchDehakaMutaliskDamageReduction/DehakaMurvarStructure=W,F2
+ResearchDehakaMutaliskRespawnOnDeath/DehakaMurvarStructure=E,F3
+ResearchSlicingGlave/DehakaMurvarStructure=Q,F1
 

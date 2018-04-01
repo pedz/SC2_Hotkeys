@@ -16,4 +16,13 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DehakaAirAttackUpgrade/DehakaCoop=V,F9
+LearnDehakaArmorUpgrade/DehakaCoop=C,F8
+LearnDehakaConsume/DehakaCoop=E,3
+LearnDehakaDetector/DehakaCoop=X,F7
+LearnDehakaIntimidatingRoar/DehakaCoop=W,2
+LearnDehakaLeapStomp/DehakaCoop=Q,1
+LearnDehakaMammothBreath/DehakaCoop=R,4
+LearnDehakaMendingAura/DehakaCoop=Z,F6
 

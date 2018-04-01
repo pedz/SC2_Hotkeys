@@ -16,4 +16,10 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+ResearchDehakaTyrannozorArmorAura/DehakaDakrunStructure=T,F5
+ResearchDehakaTyrannozorFanOfKnives/DehakaDakrunStructure=R,F4
+ResearchDehakaUltraliskBash/DehakaDakrunStructure=E,F3
+ResearchDehakaUltraliskCrashingCharge/DehakaDakrunStructure=Q,F1
+ResearchDehakaUltraliskRegen/DehakaDakrunStructure=W,F2
 

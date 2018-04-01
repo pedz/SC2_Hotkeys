@@ -17,6 +17,9 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+BurrowDown=R,5
+DehakaUltraliskCrashingCharge/DehakaUltraliskLevel2=Q,1
+DehakaUltraliskLevel2Merge/DehakaUltraliskLevel2=V,4
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

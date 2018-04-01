@@ -16,4 +16,12 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DehakaHydralisk/DehakaBarracks=H,F3
+DehakaRoach/DehakaBarracks=C,F2
+DehakaSwarmHost/DehakaBarracks=W,F6
+DehakaUltralisk/DehakaBarracks=U,F7
+DehakaZergling/DehakaBarracks=Z,F1
+PrimalBuildingUproot/DehakaBarracks=R,4
+Rally=Y,F10
 

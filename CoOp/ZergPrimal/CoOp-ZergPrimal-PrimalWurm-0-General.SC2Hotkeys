@@ -16,4 +16,8 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Attack=A,F5
+NydusDestroyerBeam/DehakaNydusDestroyer=Q,1
+NydusDestroyerDeepTunnel/DehakaNydusDestroyer=D,5
+Stop=S,F2
 

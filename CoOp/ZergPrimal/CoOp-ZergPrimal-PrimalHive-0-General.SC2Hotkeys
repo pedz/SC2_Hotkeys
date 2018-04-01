@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+BuildDehakaExtractor/DehakaHatchery=E,F6
+Cancel=Escape,5
+DehakaDrone/DehakaHatchery=D,F1
+DehakaLearnPrimalArmorLevel1/DehakaHatchery=C,2
+DehakaLearnPrimalWeaponsLevel1/DehakaHatchery=A,1
+PrimalBuildingUproot/DehakaHatchery=R,4
+RallySCV=G,F10
 

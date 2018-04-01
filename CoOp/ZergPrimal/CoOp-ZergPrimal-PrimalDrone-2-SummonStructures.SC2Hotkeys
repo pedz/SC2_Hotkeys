@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DehakaBarracks/DehakaDrone=B,F2
+DehakaDakrunStructure/DehakaDrone=D,F8
+DehakaGlevigStructure/DehakaDrone=A,F6
+DehakaHatchery/DehakaDrone=H,F1
+DehakaMurvarStructure/DehakaDrone=S,F7
+DehakaNydusDestroyer/DehakaDrone=Z,1
 

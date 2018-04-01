@@ -17,6 +17,12 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+DehakaConsume/DehakaCoop=E,3
+DehakaDeepTunnel/DehakaCoop=D,5
+DehakaIntimidatingRoar/DehakaCoop=W,2
+DehakaLeapStomp/DehakaCoop=Q,1
+DehakaLearnAbilities/DehakaCoop=T,F10
+MammothBreath/DehakaCoop=R,4
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4

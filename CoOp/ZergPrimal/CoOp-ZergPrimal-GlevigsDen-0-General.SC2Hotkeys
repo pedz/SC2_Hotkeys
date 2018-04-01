@@ -16,4 +16,11 @@ CameraView2=Option+F7
 CameraView3=Option+F8
 
 [Commands]
+Cancel=Escape,5
+DehakaGlevigRoachFireBreath/DehakaGlevigStructure=R,F4
+DehakaRoachMoveSpeed/DehakaGlevigStructure=E,F3
+ResearchDehakaHydraliskSpeed/DehakaGlevigStructure=A,F6
+ResearchDehakaImpalerTenderize/DehakaGlevigStructure=S,F7
+ResearchDehakaRavasaurRange/DehakaGlevigStructure=W,F2
+ResearchDehakaRavasaurVSArmor/DehakaGlevigStructure=Q,F1
 

@@ -17,8 +17,11 @@ CameraView3=Option+F8
 
 [Commands]
 Attack=A,F5
+DehakaSpawnLocusts/DehakaSwarmHost=C,1
+DehakaSwarmHostMerge/DehakaSwarmHost=V,4
 Move=M,F1
 MoveHoldPosition=H,F3
 MovePatrol=P,F4
 Stop=S,F2
+SwarmHostBurrowDown=R,5
 
