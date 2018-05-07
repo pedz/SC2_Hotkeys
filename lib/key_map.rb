@@ -25,6 +25,18 @@ class KeyMap
     @map = {}
   end
 
+  # These Hotkeys do not seem to conflict with anything -- ever.
+  NO_CONFLICTS = [
+    "DialogDismiss",
+    "MenuGame",
+    "MinimapNormalView",
+    "MinimapTargetingView",
+    "Ping",
+    "SelectionCancelDrag",
+    "TargetChoose",
+    "WarpIn",
+  ]
+
   CONFLICT_PAIRS = {
     "GhostHoldFire/Ghost" => "WeaponsFree/Ghost",
   }

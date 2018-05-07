@@ -48,6 +48,13 @@ class HotkeyFile
   def map_name
     @map_name ||= @name.sub(/\.[^.]+\z/, '')
   end
+
+  # True if the keymap file has AllowSetConflicts set to 1
+  def allow_conflicts
+    ((s = self.sections["Settings"]) &&
+     (a = s.attributes["AllowSetConflicts"]) &&
+     (a.value.pri == '1'))
+  end
 end
 
 if $0 == __FILE__

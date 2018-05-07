@@ -1,4 +1,8 @@
+#!/usr/bin/env ruby
 
+require 'pathname'
+require_relative '../lib/hotkey_file'
+require_relative '../lib/key_map'
 
 # Load up user's keymap.
 #
@@ -27,3 +31,4 @@
 # Command Card which we get by looking at the first alternative of the
 # Command Cards, we want a list of keys that the User keymap has in
 # that position.
+
